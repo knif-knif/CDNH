@@ -1,0 +1,1042 @@
+2024-05-22 11:18 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=15, batch_size=64, arch='ViT', noise=False, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, log_id='', warm_up=5, tau=0.9, theta_s=0.9, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 11:18 | INFO | - [Epoch 6]:
+2024-05-22 11:18 | INFO | - TP:1587  FP:672  TN:391  FN:2518
+2024-05-22 11:18 | INFO | - Correct:7328  Clean:2259  Conf:2259  Conf_Acc:1587  Vague:5091
+2024-05-22 11:20 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=False, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, log_id='', warm_up=5, tau=0.9, theta_s=0.9, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 11:20 | INFO | - [Epoch 6]:
+2024-05-22 11:21 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, log_id='', warm_up=5, tau=0.9, theta_s=0.9, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 11:21 | INFO | - [Epoch 6]:
+2024-05-22 11:22 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, log_id='', warm_up=5, tau=0.9, theta_s=0.9, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 11:22 | INFO | - [Epoch 1]:
+2024-05-22 11:26 | INFO | - [Epoch 2]:
+2024-05-22 11:30 | INFO | - [Epoch 3]:
+2024-05-22 11:34 | INFO | - [Epoch 4]:
+2024-05-22 11:38 | INFO | - [Epoch 5]:
+2024-05-22 11:43 | INFO | - map@All: 0.7884, map@5000: 0.8170
+
+
+2024-05-22 11:43 | INFO | - [Epoch 6]:
+2024-05-22 11:43 | INFO | - TP:2844  FP:1749  TN:2648  FN:720
+2024-05-22 11:43 | INFO | - Correct:4148  Clean:4593  Conf:4593  Conf_Acc:2844  Vague:4632
+2024-05-22 11:45 | INFO | - TP:2716  FP:1430  TN:2480  FN:978
+2024-05-22 11:45 | INFO | - Correct:4125  Clean:4146  Conf:4146  Conf_Acc:2716  Vague:4542
+2024-05-22 11:47 | INFO | - [Epoch 7]:
+2024-05-22 11:48 | INFO | - TP:2579  FP:1315  TN:2999  FN:1277
+2024-05-22 11:48 | INFO | - Correct:4112  Clean:3894  Conf:3894  Conf_Acc:2579  Vague:3724
+2024-05-22 11:50 | INFO | - TP:2722  FP:1587  TN:3183  FN:1476
+2024-05-22 11:50 | INFO | - Correct:4079  Clean:4309  Conf:4309  Conf_Acc:2722  Vague:3341
+2024-05-22 11:51 | INFO | - [Epoch 8]:
+2024-05-22 11:52 | INFO | - TP:2685  FP:1470  TN:1151  FN:339
+2024-05-22 11:52 | INFO | - Correct:4074  Clean:4155  Conf:4155  Conf_Acc:2685  Vague:6510
+2024-05-22 11:55 | INFO | - TP:2891  FP:2033  TN:1247  FN:331
+2024-05-22 11:55 | INFO | - Correct:4031  Clean:4924  Conf:4924  Conf_Acc:2891  Vague:6422
+2024-05-22 11:58 | INFO | - [Epoch 9]:
+2024-05-22 11:58 | INFO | - TP:2696  FP:1946  TN:1172  FN:302
+2024-05-22 11:58 | INFO | - Correct:3990  Clean:4642  Conf:4642  Conf_Acc:2696  Vague:6526
+2024-05-22 12:01 | INFO | - TP:2695  FP:2073  TN:1102  FN:291
+2024-05-22 12:01 | INFO | - Correct:3974  Clean:4768  Conf:4768  Conf_Acc:2695  Vague:6607
+2024-05-22 12:04 | INFO | - [Epoch 10]:
+2024-05-22 12:05 | INFO | - TP:2114  FP:1966  TN:1102  FN:287
+2024-05-22 12:05 | INFO | - Correct:3948  Clean:4080  Conf:4080  Conf_Acc:2114  Vague:6611
+2024-05-22 12:08 | INFO | - TP:2136  FP:2236  TN:925  FN:235
+2024-05-22 12:08 | INFO | - Correct:3909  Clean:4372  Conf:4372  Conf_Acc:2136  Vague:6840
+2024-05-22 12:12 | INFO | - map@All: 0.7512, map@5000: 0.7962
+
+
+2024-05-22 12:12 | INFO | - [Epoch 11]:
+2024-05-22 12:12 | INFO | - TP:2127  FP:2387  TN:778  FN:212
+2024-05-22 12:12 | INFO | - Correct:3873  Clean:4514  Conf:4514  Conf_Acc:2127  Vague:7010
+2024-05-22 12:16 | INFO | - TP:2087  FP:2288  TN:786  FN:201
+2024-05-22 12:16 | INFO | - Correct:3858  Clean:4375  Conf:4375  Conf_Acc:2087  Vague:7013
+2024-05-22 12:19 | INFO | - [Epoch 12]:
+2024-05-22 12:19 | INFO | - TP:2058  FP:2298  TN:812  FN:198
+2024-05-22 12:19 | INFO | - Correct:3845  Clean:4356  Conf:4356  Conf_Acc:2058  Vague:6990
+2024-05-22 12:23 | INFO | - TP:2171  FP:2727  TN:577  FN:157
+2024-05-22 12:23 | INFO | - Correct:3792  Clean:4898  Conf:4898  Conf_Acc:2171  Vague:7266
+2024-05-22 12:27 | INFO | - [Epoch 13]:
+2024-05-22 12:27 | INFO | - TP:2034  FP:2435  TN:768  FN:167
+2024-05-22 12:27 | INFO | - Correct:3775  Clean:4469  Conf:4469  Conf_Acc:2034  Vague:7065
+2024-05-22 12:31 | INFO | - TP:2054  FP:2626  TN:616  FN:140
+2024-05-22 12:31 | INFO | - Correct:3742  Clean:4680  Conf:4680  Conf_Acc:2054  Vague:7244
+2024-05-22 12:34 | INFO | - [Epoch 14]:
+2024-05-22 12:35 | INFO | - TP:1981  FP:2724  TN:581  FN:137
+2024-05-22 12:35 | INFO | - Correct:3720  Clean:4705  Conf:4705  Conf_Acc:1981  Vague:7282
+2024-05-22 12:39 | INFO | - TP:2071  FP:2849  TN:558  FN:119
+2024-05-22 12:39 | INFO | - Correct:3690  Clean:4920  Conf:4920  Conf_Acc:2071  Vague:7323
+2024-05-22 12:42 | INFO | - [Epoch 15]:
+2024-05-22 12:43 | INFO | - TP:1774  FP:2727  TN:583  FN:110
+2024-05-22 12:43 | INFO | - Correct:3665  Clean:4501  Conf:4501  Conf_Acc:1774  Vague:7307
+2024-05-22 12:47 | INFO | - TP:696  FP:2827  TN:436  FN:88
+2024-05-22 12:47 | INFO | - Correct:3619  Clean:3523  Conf:3523  Conf_Acc:696  Vague:7476
+2024-05-22 12:51 | INFO | - map@All: 0.7222, map@5000: 0.7722
+
+
+2024-05-22 12:51 | INFO | - [Epoch 16]:
+2024-05-22 12:51 | INFO | - TP:691  FP:2894  TN:484  FN:79
+2024-05-22 12:51 | INFO | - Correct:3564  Clean:3585  Conf:3585  Conf_Acc:691  Vague:7437
+2024-05-22 12:56 | INFO | - TP:699  FP:2962  TN:473  FN:63
+2024-05-22 12:56 | INFO | - Correct:3519  Clean:3661  Conf:3661  Conf_Acc:699  Vague:7464
+2024-05-22 12:59 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.9, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 12:59 | INFO | - [Epoch 1]:
+2024-05-22 13:03 | INFO | - [Epoch 2]:
+2024-05-22 13:07 | INFO | - map@All: 0.7432, map@5000: 0.7706
+
+
+2024-05-22 13:07 | INFO | - [Epoch 3]:
+2024-05-22 13:09 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.9, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 13:09 | INFO | - [Epoch 1]:
+2024-05-22 13:13 | INFO | - [Epoch 2]:
+2024-05-22 13:18 | INFO | - A map@All: 0.7432, map@5000: 0.7706
+
+
+2024-05-22 13:18 | INFO | - B map@All: 0.7125, map@5000: 0.7398
+
+
+2024-05-22 13:18 | INFO | - [Epoch 3]:
+2024-05-22 13:22 | INFO | - [Epoch 4]:
+2024-05-22 13:27 | INFO | - A map@All: 0.7802, map@5000: 0.8093
+
+
+2024-05-22 13:28 | INFO | - B map@All: 0.7433, map@5000: 0.7714
+
+
+2024-05-22 13:28 | INFO | - [Epoch 5]:
+2024-05-22 13:32 | INFO | - [Epoch 6]:
+2024-05-22 13:32 | INFO | - TP:0  FP:0  TN:6628  FN:0
+2024-05-22 13:32 | INFO | - Correct:0  Clean:0  Conf:0  Conf_Acc:0  Vague:1372
+2024-05-22 13:35 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.9, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 13:35 | INFO | - [Epoch 6]:
+2024-05-22 13:36 | INFO | - TP:0  FP:3685  TN:4315  FN:0
+2024-05-22 13:36 | INFO | - Correct:0  Clean:3685  Conf:0  Conf_Acc:0  Vague:3685
+2024-05-22 13:37 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.9, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 13:37 | INFO | - [Epoch 6]:
+2024-05-22 13:37 | INFO | - TP:1080  FP:2605  TN:1851  FN:2464
+2024-05-22 13:37 | INFO | - Correct:3544  Clean:3685  Conf:0  Conf_Acc:0  Vague:3685
+2024-05-22 13:39 | INFO | - TP:925  FP:395  TN:3303  FN:1507
+2024-05-22 13:39 | INFO | - Correct:3845  Clean:1320  Conf:1320  Conf_Acc:925  Vague:3190
+2024-05-22 13:41 | INFO | - A map@All: 0.6020, map@5000: 0.6465
+
+
+2024-05-22 13:42 | INFO | - B map@All: 0.7271, map@5000: 0.7595
+
+
+2024-05-22 13:42 | INFO | - [Epoch 7]:
+2024-05-22 13:43 | INFO | - TP:1076  FP:2559  TN:1596  FN:2769
+2024-05-22 13:43 | INFO | - Correct:3845  Clean:3635  Conf:0  Conf_Acc:0  Vague:3635
+2024-05-22 13:45 | INFO | - TP:1078  FP:1569  TN:2194  FN:773
+2024-05-22 13:45 | INFO | - Correct:3792  Clean:2647  Conf:2647  Conf_Acc:1078  Vague:5033
+2024-05-22 13:45 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.9, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 13:45 | INFO | - [Epoch 6]:
+2024-05-22 13:46 | INFO | - TP:2464  FP:1851  TN:2605  FN:1080
+2024-05-22 13:46 | INFO | - Correct:3544  Clean:4315  Conf:0  Conf_Acc:0  Vague:4315
+2024-05-22 13:48 | INFO | - TP:39  FP:10  TN:2742  FN:1115
+2024-05-22 13:48 | INFO | - Correct:3556  Clean:49  Conf:49  Conf_Acc:39  Vague:4143
+2024-05-22 13:55 | INFO | - A map@All: 0.4799, map@5000: 0.5215
+
+
+2024-05-22 13:56 | INFO | - B map@All: 0.6996, map@5000: 0.7330
+
+
+2024-05-22 13:56 | INFO | - [Epoch 7]:
+2024-05-22 13:56 | INFO | - TP:2665  FP:2997  TN:1447  FN:891
+2024-05-22 13:56 | INFO | - Correct:3556  Clean:5662  Conf:0  Conf_Acc:0  Vague:5662
+2024-05-22 13:59 | INFO | - TP:77  FP:7  TN:1862  FN:565
+2024-05-22 13:59 | INFO | - Correct:3578  Clean:84  Conf:84  Conf_Acc:77  Vague:5573
+2024-05-22 14:04 | INFO | - [Epoch 8]:
+2024-05-22 14:05 | INFO | - TP:2701  FP:3006  TN:1416  FN:877
+2024-05-22 14:05 | INFO | - Correct:3578  Clean:5707  Conf:0  Conf_Acc:0  Vague:5707
+2024-05-22 14:08 | INFO | - TP:664  FP:71  TN:2864  FN:1231
+2024-05-22 14:08 | INFO | - Correct:3783  Clean:735  Conf:735  Conf_Acc:664  Vague:3905
+2024-05-22 14:10 | INFO | - A map@All: 0.6261, map@5000: 0.6641
+
+
+2024-05-22 14:11 | INFO | - B map@All: 0.6677, map@5000: 0.7036
+
+
+2024-05-22 14:11 | INFO | - [Epoch 9]:
+2024-05-22 14:11 | INFO | - TP:1257  FP:1370  TN:2847  FN:2526
+2024-05-22 14:11 | INFO | - Correct:3783  Clean:2627  Conf:0  Conf_Acc:0  Vague:2627
+2024-05-22 14:13 | INFO | - TP:832  FP:90  TN:1805  FN:433
+2024-05-22 14:13 | INFO | - Correct:3888  Clean:922  Conf:922  Conf_Acc:832  Vague:5762
+2024-05-22 14:16 | INFO | - [Epoch 10]:
+2024-05-22 14:16 | INFO | - TP:1252  FP:1213  TN:2899  FN:2636
+2024-05-22 14:16 | INFO | - Correct:3888  Clean:2465  Conf:0  Conf_Acc:0  Vague:2465
+2024-05-22 14:18 | INFO | - TP:592  FP:59  TN:2995  FN:1176
+2024-05-22 14:18 | INFO | - Correct:3901  Clean:651  Conf:651  Conf_Acc:592  Vague:3829
+2024-05-22 14:20 | INFO | - A map@All: 0.6247, map@5000: 0.6682
+
+
+2024-05-22 14:21 | INFO | - B map@All: 0.6732, map@5000: 0.7101
+
+
+2024-05-22 14:21 | INFO | - [Epoch 11]:
+2024-05-22 14:21 | INFO | - TP:3110  FP:2712  TN:1387  FN:791
+2024-05-22 14:21 | INFO | - Correct:3901  Clean:5822  Conf:0  Conf_Acc:0  Vague:5822
+2024-05-22 14:24 | INFO | - TP:1364  FP:229  TN:3271  FN:1408
+2024-05-22 14:24 | INFO | - Correct:4006  Clean:1593  Conf:1593  Conf_Acc:1364  Vague:3321
+2024-05-22 14:26 | INFO | - [Epoch 12]:
+2024-05-22 14:26 | INFO | - TP:3265  FP:2624  TN:1370  FN:741
+2024-05-22 14:26 | INFO | - Correct:4006  Clean:5889  Conf:0  Conf_Acc:0  Vague:5889
+2024-05-22 14:29 | INFO | - TP:1394  FP:241  TN:3196  FN:1309
+2024-05-22 14:29 | INFO | - Correct:4014  Clean:1635  Conf:1635  Conf_Acc:1394  Vague:3495
+2024-05-22 14:31 | INFO | - A map@All: 0.6630, map@5000: 0.7023
+
+
+2024-05-22 14:32 | INFO | - B map@All: 0.6850, map@5000: 0.7192
+
+
+2024-05-22 14:32 | INFO | - [Epoch 13]:
+2024-05-22 14:32 | INFO | - TP:3282  FP:2622  TN:1364  FN:732
+2024-05-22 14:32 | INFO | - Correct:4014  Clean:5904  Conf:0  Conf_Acc:0  Vague:5904
+2024-05-22 14:35 | INFO | - TP:1488  FP:333  TN:2368  FN:797
+2024-05-22 14:35 | INFO | - Correct:4011  Clean:1821  Conf:1821  Conf_Acc:1488  Vague:4835
+2024-05-22 14:42 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 14:42 | INFO | - [Epoch 6]:
+2024-05-22 14:44 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 14:44 | INFO | - [Epoch 6]:
+2024-05-22 14:45 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 14:46 | INFO | - [Epoch 6]:
+2024-05-22 14:46 | INFO | - TP:239  FP:1206  TN:1206  FN:239
+2024-05-22 14:46 | INFO | - Correct:4280  Clean:1445  Conf:3965  Conf_Acc:2763  Vague:2890
+2024-05-22 14:48 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 14:48 | INFO | - [Epoch 6]:
+2024-05-22 14:49 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 14:50 | INFO | - [Epoch 6]:
+2024-05-22 14:51 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 14:51 | INFO | - [Epoch 6]:
+2024-05-22 14:54 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 14:54 | INFO | - [Epoch 6]:
+2024-05-22 14:55 | INFO | - TP:239  FP:1206  TN:1101  FN:3214
+2024-05-22 14:55 | INFO | - Correct:4280  Clean:1445  Conf:3965  Conf_Acc:2763  Vague:3685
+2024-05-22 14:58 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 14:58 | INFO | - [Epoch 6]:
+2024-05-22 15:00 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 15:00 | INFO | - [Epoch 6]:
+2024-05-22 15:01 | INFO | - TP:2763  FP:1202  TN:1101  FN:3214
+2024-05-22 15:01 | INFO | - Correct:4280  Clean:3965  Conf:3965  Conf_Acc:2763  Vague:2240
+2024-05-22 15:03 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 15:03 | INFO | - [Epoch 6]:
+2024-05-22 15:04 | INFO | - TP:2763  FP:1202  TN:1101  FN:3214
+2024-05-22 15:04 | INFO | - Correct:4280  Clean:3965  Conf:3965  Conf_Acc:2763  Vague:2240
+2024-05-22 15:07 | INFO | - A map@All: 0.7559, map@5000: 0.7888
+
+
+2024-05-22 15:08 | INFO | - B map@All: 0.7279, map@5000: 0.7559
+
+
+2024-05-22 15:08 | INFO | - [Epoch 7]:
+2024-05-22 15:08 | INFO | - TP:2462  FP:835  TN:1418  FN:3189
+2024-05-22 15:08 | INFO | - Correct:4271  Clean:3297  Conf:3297  Conf_Acc:2462  Vague:2216
+2024-05-22 15:10 | INFO | - [Epoch 8]:
+2024-05-22 15:11 | INFO | - TP:2449  FP:1268  TN:1422  FN:3161
+2024-05-22 15:11 | INFO | - Correct:4219  Clean:3717  Conf:3717  Conf_Acc:2449  Vague:2324
+2024-05-22 15:14 | INFO | - A map@All: 0.7521, map@5000: 0.7921
+
+
+2024-05-22 15:14 | INFO | - B map@All: 0.7279, map@5000: 0.7559
+
+
+2024-05-22 15:14 | INFO | - [Epoch 9]:
+2024-05-22 15:15 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 15:15 | INFO | - [Epoch 6]:
+2024-05-22 15:16 | INFO | - TP:2763  FP:1202  TN:1101  FN:3214
+2024-05-22 15:16 | INFO | - Correct:4280  Clean:3965  Conf:3965  Conf_Acc:2763  Vague:2240
+2024-05-22 15:18 | INFO | - A map@All: 0.7559, map@5000: 0.7888
+
+
+2024-05-22 15:19 | INFO | - B map@All: 0.7595, map@5000: 0.7902
+
+
+2024-05-22 15:19 | INFO | - [Epoch 7]:
+2024-05-22 15:20 | INFO | - TP:2462  FP:835  TN:1460  FN:3195
+2024-05-22 15:20 | INFO | - Correct:4271  Clean:3297  Conf:3297  Conf_Acc:2462  Vague:2346
+2024-05-22 15:22 | INFO | - [Epoch 8]:
+2024-05-22 15:23 | INFO | - TP:2436  FP:1193  TN:1519  FN:3172
+2024-05-22 15:23 | INFO | - Correct:4226  Clean:3629  Conf:3629  Conf_Acc:2436  Vague:2776
+2024-05-22 15:26 | INFO | - A map@All: 0.7441, map@5000: 0.7820
+
+
+2024-05-22 15:26 | INFO | - B map@All: 0.7461, map@5000: 0.7779
+
+
+2024-05-22 15:26 | INFO | - [Epoch 9]:
+2024-05-22 15:27 | INFO | - TP:2264  FP:1586  TN:1515  FN:3101
+2024-05-22 15:27 | INFO | - Correct:4121  Clean:3850  Conf:3850  Conf_Acc:2264  Vague:2948
+2024-05-22 15:30 | INFO | - [Epoch 10]:
+2024-05-22 15:30 | INFO | - TP:1805  FP:1809  TN:1439  FN:3068
+2024-05-22 15:30 | INFO | - Correct:4026  Clean:3614  Conf:3614  Conf_Acc:1805  Vague:3182
+2024-05-22 15:34 | INFO | - A map@All: 0.7335, map@5000: 0.7742
+
+
+2024-05-22 15:34 | INFO | - B map@All: 0.7098, map@5000: 0.7447
+
+
+2024-05-22 15:34 | INFO | - [Epoch 11]:
+2024-05-22 15:35 | INFO | - TP:684  FP:2240  TN:1432  FN:2996
+2024-05-22 15:35 | INFO | - Correct:3897  Clean:2924  Conf:2924  Conf_Acc:684  Vague:3398
+2024-05-22 15:38 | INFO | - [Epoch 12]:
+2024-05-22 15:39 | INFO | - TP:700  FP:2684  TN:1402  FN:2847
+2024-05-22 15:39 | INFO | - Correct:3706  Clean:3384  Conf:3384  Conf_Acc:700  Vague:3681
+2024-05-22 16:24 | INFO | - A map@All: 0.6753, map@5000: 0.7217
+
+
+2024-05-22 16:24 | INFO | - B map@All: 0.7177, map@5000: 0.7521
+
+
+2024-05-22 16:24 | INFO | - [Epoch 13]:
+2024-05-22 16:25 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 16:25 | INFO | - [Epoch 6]:
+2024-05-22 16:26 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 16:26 | INFO | - [Epoch 6]:
+2024-05-22 16:32 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 16:32 | INFO | - [Epoch 6]:
+2024-05-22 16:33 | INFO | - TP:2763  FP:1202  TN:1206  FN:239
+2024-05-22 16:33 | INFO | - Correct:4280  Clean:3965  Conf:3965  Conf_Acc:2763  Vague:6555
+2024-05-22 16:37 | INFO | - A map@All: 0.7606, map@5000: 0.7951
+
+
+2024-05-22 16:38 | INFO | - B map@All: 0.7444, map@5000: 0.7786
+
+
+2024-05-22 16:38 | INFO | - [Epoch 7]:
+2024-05-22 16:39 | INFO | - TP:2539  FP:1007  TN:2303  FN:1063
+2024-05-22 16:39 | INFO | - Correct:4244  Clean:3546  Conf:3546  Conf_Acc:2539  Vague:4634
+2024-05-22 16:42 | INFO | - [Epoch 8]:
+2024-05-22 16:43 | INFO | - TP:2463  FP:927  TN:2313  FN:1063
+2024-05-22 16:43 | INFO | - Correct:4234  Clean:3390  Conf:3390  Conf_Acc:2463  Vague:4624
+2024-05-22 16:47 | INFO | - A map@All: 0.7451, map@5000: 0.7835
+
+
+2024-05-22 16:47 | INFO | - B map@All: 0.7691, map@5000: 0.8004
+
+
+2024-05-22 16:47 | INFO | - [Epoch 9]:
+2024-05-22 16:48 | INFO | - TP:2472  FP:900  TN:2288  FN:1055
+2024-05-22 16:48 | INFO | - Correct:4214  Clean:3372  Conf:3372  Conf_Acc:2472  Vague:4657
+2024-05-22 16:51 | INFO | - [Epoch 10]:
+2024-05-22 16:52 | INFO | - TP:2550  FP:991  TN:2261  FN:1036
+2024-05-22 16:52 | INFO | - Correct:4202  Clean:3541  Conf:3541  Conf_Acc:2550  Vague:4703
+2024-05-22 16:56 | INFO | - A map@All: 0.7462, map@5000: 0.7851
+
+
+2024-05-22 16:57 | INFO | - B map@All: 0.7690, map@5000: 0.8033
+
+
+2024-05-22 16:57 | INFO | - [Epoch 11]:
+2024-05-22 17:01 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 17:01 | INFO | - [Epoch 6]:
+2024-05-22 17:02 | INFO | - TP:2763  FP:1202  TN:1206  FN:239  VN:4041
+2024-05-22 17:02 | INFO | - Correct:4280  Clean:3965  Conf:3965  Conf_Acc:2763  Vague:6555
+2024-05-22 17:03 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 17:03 | INFO | - [Epoch 6]:
+2024-05-22 17:04 | INFO | - TP:2763  FP:1202  TN:1206  FN:239  VN:4041
+2024-05-22 17:04 | INFO | - Correct:4280  Clean:3965  Conf:3965  Conf_Acc:2763  Vague:6555
+2024-05-22 17:06 | INFO | - A map@All: 0.7379, map@5000: 0.7729
+
+
+2024-05-22 17:07 | INFO | - B map@All: 0.7455, map@5000: 0.7798
+
+
+2024-05-22 17:07 | INFO | - [Epoch 7]:
+2024-05-22 17:08 | INFO | - TP:401  FP:29  TN:2289  FN:1085  VN:3196
+2024-05-22 17:08 | INFO | - Correct:4281  Clean:430  Conf:430  Conf_Acc:401  Vague:4626
+2024-05-22 17:09 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 17:09 | INFO | - [Epoch 6]:
+2024-05-22 17:10 | INFO | - TP:2763  FP:1202  TN:1206  FN:239  VN:4041
+2024-05-22 17:10 | INFO | - Correct:4280  Clean:3965  Conf:3965  Conf_Acc:2763  Vague:6555
+2024-05-22 17:12 | INFO | - A map@All: 0.7501, map@5000: 0.7850
+
+
+2024-05-22 17:13 | INFO | - B map@All: 0.7455, map@5000: 0.7798
+
+
+2024-05-22 17:13 | INFO | - [Epoch 7]:
+2024-05-22 17:14 | INFO | - TP:2389  FP:815  TN:2305  FN:1069  VN:3192
+2024-05-22 17:14 | INFO | - Correct:4261  Clean:3204  Conf:3204  Conf_Acc:2389  Vague:4626
+2024-05-22 17:16 | INFO | - [Epoch 8]:
+2024-05-22 17:17 | INFO | - TP:2104  FP:581  TN:2250  FN:1064  VN:3198
+2024-05-22 17:17 | INFO | - Correct:4262  Clean:2685  Conf:2685  Conf_Acc:2104  Vague:4686
+2024-05-22 17:19 | INFO | - A map@All: 0.7418, map@5000: 0.7753
+
+
+2024-05-22 17:20 | INFO | - B map@All: 0.7697, map@5000: 0.8019
+
+
+2024-05-22 17:20 | INFO | - [Epoch 9]:
+2024-05-22 17:20 | INFO | - TP:1971  FP:528  TN:2200  FN:1059  VN:3195
+2024-05-22 17:20 | INFO | - Correct:4254  Clean:2499  Conf:2499  Conf_Acc:1971  Vague:4741
+2024-05-22 17:22 | INFO | - [Epoch 10]:
+2024-05-22 17:23 | INFO | - TP:2124  FP:753  TN:2200  FN:1033  VN:3189
+2024-05-22 17:23 | INFO | - Correct:4222  Clean:2877  Conf:2877  Conf_Acc:2124  Vague:4767
+2024-05-22 17:26 | INFO | - A map@All: 0.7554, map@5000: 0.7929
+
+
+2024-05-22 17:26 | INFO | - B map@All: 0.7719, map@5000: 0.8054
+
+
+2024-05-22 17:26 | INFO | - [Epoch 11]:
+2024-05-22 17:27 | INFO | - TP:2180  FP:669  TN:2081  FN:1024  VN:3195
+2024-05-22 17:27 | INFO | - Correct:4219  Clean:2849  Conf:2849  Conf_Acc:2180  Vague:4895
+2024-05-22 17:29 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 17:29 | INFO | - [Epoch 1]:
+2024-05-22 17:31 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 17:32 | INFO | - [Epoch 1]:
+2024-05-22 17:33 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 17:33 | INFO | - [Epoch 1]:
+2024-05-22 17:37 | INFO | - [Epoch 2]:
+2024-05-22 17:43 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 17:43 | INFO | - [Epoch 1]:
+2024-05-22 17:48 | INFO | - [Epoch 2]:
+2024-05-22 17:53 | INFO | - A map@All: 0.7432, map@5000: 0.7706
+
+
+2024-05-22 17:53 | INFO | - B map@All: 0.5755, map@5000: 0.6185
+
+
+2024-05-22 17:53 | INFO | - [Epoch 3]:
+2024-05-22 17:58 | INFO | - [Epoch 4]:
+2024-05-22 18:02 | INFO | - A map@All: 0.7802, map@5000: 0.8093
+
+
+2024-05-22 18:03 | INFO | - B map@All: 0.5824, map@5000: 0.6324
+
+
+2024-05-22 18:03 | INFO | - [Epoch 5]:
+2024-05-22 18:07 | INFO | - [Epoch 6]:
+2024-05-22 18:08 | INFO | - TP:2738  FP:1194  TN:1203  FN:242  VN:4009
+2024-05-22 18:08 | INFO | - Correct:4251  Clean:3932  Conf:3932  Conf_Acc:2738  Vague:6555
+2024-05-22 20:55 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 20:56 | INFO | - [Epoch 1]:
+2024-05-22 21:02 | INFO | - [Epoch 2]:
+2024-05-22 21:08 | INFO | - A map@All: 0.7352, map@5000: 0.7660
+
+
+2024-05-22 21:09 | INFO | - B map@All: 0.5728, map@5000: 0.6276
+
+
+2024-05-22 21:09 | INFO | - [Epoch 3]:
+2024-05-22 21:15 | INFO | - [Epoch 4]:
+2024-05-22 21:23 | INFO | - A map@All: 0.7789, map@5000: 0.8106
+
+
+2024-05-22 21:23 | INFO | - B map@All: 0.5840, map@5000: 0.6391
+
+
+2024-05-22 21:23 | INFO | - [Epoch 5]:
+2024-05-22 21:25 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 21:25 | INFO | - [Epoch 1]:
+2024-05-22 21:32 | INFO | - [Epoch 2]:
+2024-05-22 21:38 | INFO | - A map@All: 0.7352, map@5000: 0.7660
+
+
+2024-05-22 21:39 | INFO | - B map@All: 0.7440, map@5000: 0.7704
+
+
+2024-05-22 21:39 | INFO | - [Epoch 3]:
+2024-05-22 21:45 | INFO | - [Epoch 4]:
+2024-05-22 21:52 | INFO | - A map@All: 0.7789, map@5000: 0.8106
+
+
+2024-05-22 21:52 | INFO | - B map@All: 0.7275, map@5000: 0.7595
+
+
+2024-05-22 21:52 | INFO | - [Epoch 5]:
+2024-05-22 21:58 | INFO | - [Epoch 6]:
+2024-05-22 21:59 | INFO | - TP:2782  FP:1350  TN:1222  FN:223  VN:4022
+2024-05-22 21:59 | INFO | - Correct:4245  Clean:4132  Conf:4132  Conf_Acc:2782  Vague:6555
+2024-05-22 22:02 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 22:02 | INFO | - [Epoch 1]:
+2024-05-22 22:06 | INFO | - [Epoch 2]:
+2024-05-22 22:10 | INFO | - A map@All: 0.7432, map@5000: 0.7706
+
+
+2024-05-22 22:11 | INFO | - B map@All: 0.7004, map@5000: 0.7314
+
+
+2024-05-22 22:11 | INFO | - [Epoch 3]:
+2024-05-22 22:12 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 22:12 | INFO | - [Epoch 1]:
+2024-05-22 22:16 | INFO | - [Epoch 2]:
+2024-05-22 22:20 | INFO | - A map@All: 0.7432, map@5000: 0.7706
+
+
+2024-05-22 22:21 | INFO | - B map@All: 0.7125, map@5000: 0.7398
+
+
+2024-05-22 22:21 | INFO | - [Epoch 3]:
+2024-05-22 22:25 | INFO | - [Epoch 4]:
+2024-05-22 22:30 | INFO | - A map@All: 0.7802, map@5000: 0.8093
+
+
+2024-05-22 22:30 | INFO | - B map@All: 0.7433, map@5000: 0.7714
+
+
+2024-05-22 22:30 | INFO | - [Epoch 5]:
+2024-05-22 22:34 | INFO | - [Epoch 6]:
+2024-05-22 22:35 | INFO | - TP:2738  FP:1194  TN:2642  FN:1043  VN:3208
+2024-05-22 22:35 | INFO | - Correct:4251  Clean:3932  Conf:3932  Conf_Acc:2738  Vague:4315
+2024-05-22 22:38 | INFO | - A map@All: 0.7887, map@5000: 0.8220
+
+
+2024-05-22 22:39 | INFO | - B map@All: 0.7451, map@5000: 0.7787
+
+
+2024-05-22 22:39 | INFO | - [Epoch 7]:
+2024-05-22 22:39 | INFO | - TP:2946  FP:1966  TN:2373  FN:985  VN:3123
+2024-05-22 22:39 | INFO | - Correct:4108  Clean:4912  Conf:4912  Conf_Acc:2946  Vague:4642
+2024-05-22 22:41 | INFO | - [Epoch 8]:
+2024-05-22 22:42 | INFO | - TP:3001  FP:2922  TN:2525  FN:874  VN:2990
+2024-05-22 22:42 | INFO | - Correct:3864  Clean:5923  Conf:5923  Conf_Acc:3001  Vague:4601
+2024-05-22 22:45 | INFO | - A map@All: 0.7636, map@5000: 0.7974
+
+
+2024-05-22 22:46 | INFO | - B map@All: 0.7622, map@5000: 0.7933
+
+
+2024-05-22 22:46 | INFO | - [Epoch 9]:
+2024-05-22 22:47 | INFO | - TP:2977  FP:3348  TN:2747  FN:808  VN:2909
+2024-05-22 22:47 | INFO | - Correct:3717  Clean:6325  Conf:6325  Conf_Acc:2977  Vague:4445
+2024-05-22 22:49 | INFO | - [Epoch 10]:
+2024-05-22 22:50 | INFO | - TP:2849  FP:3652  TN:2919  FN:783  VN:2784
+2024-05-22 22:50 | INFO | - Correct:3567  Clean:6501  Conf:6501  Conf_Acc:2849  Vague:4298
+2024-05-22 22:52 | INFO | - A map@All: 0.6900, map@5000: 0.7255
+
+
+2024-05-22 22:53 | INFO | - B map@All: 0.7264, map@5000: 0.7606
+
+
+2024-05-22 22:53 | INFO | - [Epoch 11]:
+2024-05-22 22:54 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=20, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-22 22:54 | INFO | - [Epoch 1]:
+2024-05-22 22:58 | INFO | - [Epoch 2]:
+2024-05-22 23:03 | INFO | - A map@All: 0.7432, map@5000: 0.7706
+
+
+2024-05-22 23:03 | INFO | - B map@All: 0.7125, map@5000: 0.7398
+
+
+2024-05-22 23:03 | INFO | - [Epoch 3]:
+2024-05-22 23:07 | INFO | - [Epoch 4]:
+2024-05-22 23:12 | INFO | - A map@All: 0.7802, map@5000: 0.8093
+
+
+2024-05-22 23:13 | INFO | - B map@All: 0.7433, map@5000: 0.7714
+
+
+2024-05-22 23:13 | INFO | - [Epoch 5]:
+2024-05-22 23:17 | INFO | - [Epoch 6]:
+2024-05-22 23:17 | INFO | - TP:2738  FP:1194  TN:2642  FN:1043  VN:3208
+2024-05-22 23:17 | INFO | - Correct:4251  Clean:3932  Conf:3932  Conf_Acc:2738  Vague:4315
+2024-05-22 23:20 | INFO | - A map@All: 0.7868, map@5000: 0.8156
+
+
+2024-05-22 23:20 | INFO | - B map@All: 0.7451, map@5000: 0.7787
+
+
+2024-05-22 23:20 | INFO | - [Epoch 7]:
+2024-05-22 23:21 | INFO | - TP:2712  FP:1328  TN:2326  FN:1032  VN:3168
+2024-05-22 23:21 | INFO | - Correct:4200  Clean:4040  Conf:4040  Conf_Acc:2712  Vague:4642
+2024-05-22 23:23 | INFO | - [Epoch 8]:
+2024-05-22 23:24 | INFO | - TP:2335  FP:764  TN:2314  FN:1029  VN:3165
+2024-05-22 23:24 | INFO | - Correct:4194  Clean:3099  Conf:3099  Conf_Acc:2335  Vague:4657
+2024-05-22 23:26 | INFO | - A map@All: 0.7748, map@5000: 0.8099
+
+
+2024-05-22 23:27 | INFO | - B map@All: 0.7714, map@5000: 0.8031
+
+
+2024-05-22 23:27 | INFO | - [Epoch 9]:
+2024-05-22 23:28 | INFO | - TP:2311  FP:784  TN:2245  FN:1012  VN:3166
+2024-05-22 23:28 | INFO | - Correct:4178  Clean:3095  Conf:3095  Conf_Acc:2311  Vague:4743
+2024-05-22 23:29 | INFO | - [Epoch 10]:
+2024-05-22 23:30 | INFO | - TP:2268  FP:849  TN:2182  FN:1002  VN:3165
+2024-05-22 23:30 | INFO | - Correct:4167  Clean:3117  Conf:3117  Conf_Acc:2268  Vague:4816
+2024-05-22 23:33 | INFO | - A map@All: 0.7543, map@5000: 0.7945
+
+
+2024-05-22 23:33 | INFO | - B map@All: 0.7776, map@5000: 0.8105
+
+
+2024-05-22 23:33 | INFO | - [Epoch 11]:
+2024-05-22 23:34 | INFO | - TP:2249  FP:856  TN:2131  FN:996  VN:3159
+2024-05-22 23:34 | INFO | - Correct:4155  Clean:3105  Conf:3105  Conf_Acc:2249  Vague:4873
+2024-05-22 23:36 | INFO | - [Epoch 12]:
+2024-05-22 23:37 | INFO | - TP:2338  FP:1008  TN:2073  FN:978  VN:3158
+2024-05-22 23:37 | INFO | - Correct:4136  Clean:3346  Conf:3346  Conf_Acc:2338  Vague:4949
+2024-05-22 23:39 | INFO | - A map@All: 0.7497, map@5000: 0.7901
+
+
+2024-05-22 23:40 | INFO | - B map@All: 0.7736, map@5000: 0.8093
+
+
+2024-05-22 23:40 | INFO | - [Epoch 13]:
+2024-05-22 23:41 | INFO | - TP:2333  FP:1081  TN:2046  FN:959  VN:3137
+2024-05-22 23:41 | INFO | - Correct:4096  Clean:3414  Conf:3414  Conf_Acc:2333  Vague:4995
+2024-05-22 23:42 | INFO | - [Epoch 14]:
+2024-05-22 23:43 | INFO | - TP:2310  FP:1092  TN:1994  FN:946  VN:3122
+2024-05-22 23:43 | INFO | - Correct:4068  Clean:3402  Conf:3402  Conf_Acc:2310  Vague:5060
+2024-05-22 23:46 | INFO | - A map@All: 0.7192, map@5000: 0.7620
+
+
+2024-05-22 23:46 | INFO | - B map@All: 0.7656, map@5000: 0.8040
+
+
+2024-05-22 23:46 | INFO | - [Epoch 15]:
+2024-05-22 23:47 | INFO | - TP:2349  FP:1314  TN:1981  FN:922  VN:3092
+2024-05-22 23:47 | INFO | - Correct:4014  Clean:3663  Conf:3663  Conf_Acc:2349  Vague:5097
+2024-05-22 23:49 | INFO | - [Epoch 16]:
+2024-05-22 23:50 | INFO | - TP:2337  FP:1424  TN:1950  FN:887  VN:3040
+2024-05-22 23:50 | INFO | - Correct:3927  Clean:3761  Conf:3761  Conf_Acc:2337  Vague:5163
+2024-05-22 23:52 | INFO | - A map@All: 0.6932, map@5000: 0.7358
+
+
+2024-05-22 23:53 | INFO | - B map@All: 0.7554, map@5000: 0.7955
+
+
+2024-05-22 23:53 | INFO | - [Epoch 17]:
+2024-05-22 23:54 | INFO | - TP:2320  FP:1489  TN:1884  FN:858  VN:3005
+2024-05-22 23:54 | INFO | - Correct:3863  Clean:3809  Conf:3809  Conf_Acc:2320  Vague:5258
+2024-05-22 23:56 | INFO | - [Epoch 18]:
+2024-05-22 23:56 | INFO | - TP:2281  FP:1621  TN:1842  FN:822  VN:2941
+2024-05-22 23:56 | INFO | - Correct:3763  Clean:3902  Conf:3902  Conf_Acc:2281  Vague:5336
+2024-05-22 23:59 | INFO | - A map@All: 0.6362, map@5000: 0.6779
+
+
+2024-05-23 00:00 | INFO | - B map@All: 0.7440, map@5000: 0.7850
+
+
+2024-05-23 00:00 | INFO | - [Epoch 19]:
+2024-05-23 00:00 | INFO | - TP:2216  FP:1850  TN:1800  FN:758  VN:2877
+2024-05-23 00:00 | INFO | - Correct:3635  Clean:4066  Conf:4066  Conf_Acc:2216  Vague:5442
+2024-05-23 00:02 | INFO | - [Epoch 20]:
+2024-05-23 00:03 | INFO | - TP:2079  FP:2385  TN:1740  FN:626  VN:2743
+2024-05-23 00:03 | INFO | - Correct:3369  Clean:4464  Conf:4464  Conf_Acc:2079  Vague:5634
+2024-05-23 00:06 | INFO | - A map@All: 0.5142, map@5000: 0.5513
+
+
+2024-05-23 00:06 | INFO | - B map@All: 0.7164, map@5000: 0.7562
+
+
+2024-05-23 12:27 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 12:27 | INFO | - [Epoch 1]:
+2024-05-23 12:31 | INFO | - [Epoch 2]:
+2024-05-23 12:36 | INFO | - A map@All: 0.7432, map@5000: 0.7706
+
+
+2024-05-23 12:36 | INFO | - B map@All: 0.5457, map@5000: 0.5899
+
+
+2024-05-23 12:36 | INFO | - [Epoch 3]:
+2024-05-23 12:40 | INFO | - [Epoch 4]:
+2024-05-23 12:45 | INFO | - A map@All: 0.7802, map@5000: 0.8093
+
+
+2024-05-23 12:45 | INFO | - B map@All: 0.5446, map@5000: 0.5997
+
+
+2024-05-23 12:45 | INFO | - [Epoch 5]:
+2024-05-23 12:48 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 12:48 | INFO | - [Epoch 1]:
+2024-05-23 12:52 | INFO | - [Epoch 2]:
+2024-05-23 12:53 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 12:53 | INFO | - [Epoch 1]:
+2024-05-23 12:53 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 12:53 | INFO | - [Epoch 1]:
+2024-05-23 12:57 | INFO | - [Epoch 2]:
+2024-05-23 13:01 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:01 | INFO | - [Epoch 1]:
+2024-05-23 13:02 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:03 | INFO | - [Epoch 1]:
+2024-05-23 13:03 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:03 | INFO | - [Epoch 1]:
+2024-05-23 13:04 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:04 | INFO | - [Epoch 1]:
+2024-05-23 13:08 | INFO | - [Epoch 2]:
+2024-05-23 13:09 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:09 | INFO | - [Epoch 1]:
+2024-05-23 13:10 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:10 | INFO | - [Epoch 1]:
+2024-05-23 13:20 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:20 | INFO | - [Epoch 1]:
+2024-05-23 13:21 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:22 | INFO | - [Epoch 1]:
+2024-05-23 13:26 | INFO | - [Epoch 2]:
+2024-05-23 13:28 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:28 | INFO | - [Epoch 1]:
+2024-05-23 13:32 | INFO | - [Epoch 2]:
+2024-05-23 13:36 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:36 | INFO | - [Epoch 1]:
+2024-05-23 13:41 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 13:41 | INFO | - [Epoch 1]:
+2024-05-23 13:45 | INFO | - [Epoch 2]:
+2024-05-23 13:50 | INFO | - A map@All: 0.7416, map@5000: 0.7727
+
+
+2024-05-23 13:51 | INFO | - B map@All: 0.7350, map@5000: 0.7655
+
+
+2024-05-23 13:51 | INFO | - [Epoch 3]:
+2024-05-23 13:55 | INFO | - [Epoch 4]:
+2024-05-23 14:00 | INFO | - A map@All: 0.7691, map@5000: 0.8020
+
+
+2024-05-23 14:01 | INFO | - B map@All: 0.7622, map@5000: 0.7940
+
+
+2024-05-23 14:01 | INFO | - [Epoch 5]:
+2024-05-23 14:06 | INFO | - [Epoch 6]:
+2024-05-23 14:06 | INFO | - TP:2759  FP:1250  TN:1219  FN:226  VN:4030
+2024-05-23 14:06 | INFO | - Correct:4256  Clean:4009  Conf:4009  Conf_Acc:2759  Vague:6555
+2024-05-23 15:49 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 15:49 | INFO | - [Epoch 1]:
+2024-05-23 15:54 | INFO | - [Epoch 2]:
+2024-05-23 15:59 | INFO | - A map@All: 0.7416, map@5000: 0.7727
+
+
+2024-05-23 15:59 | INFO | - B map@All: 0.7350, map@5000: 0.7655
+
+
+2024-05-23 15:59 | INFO | - [Epoch 3]:
+2024-05-23 16:04 | INFO | - [Epoch 4]:
+2024-05-23 16:09 | INFO | - A map@All: 0.7691, map@5000: 0.8020
+
+
+2024-05-23 16:10 | INFO | - B map@All: 0.7622, map@5000: 0.7940
+
+
+2024-05-23 16:10 | INFO | - [Epoch 5]:
+2024-05-23 16:14 | INFO | - [Epoch 6]:
+2024-05-23 16:16 | INFO | - TP:2759  FP:1250  TN:1219  FN:226  VN:4030
+2024-05-23 16:16 | INFO | - Correct:4256  Clean:4009  Conf:4009  Conf_Acc:2759  Vague:6555
+2024-05-23 16:18 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 16:18 | INFO | - [Epoch 6]:
+2024-05-23 16:20 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 16:20 | INFO | - [Epoch 6]:
+2024-05-23 16:21 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 16:21 | INFO | - [Epoch 6]:
+2024-05-23 16:23 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 16:23 | INFO | - [Epoch 6]:
+2024-05-23 16:24 | INFO | - TP:3143  FP:1850  TN:1237  FN:208  VN:3982
+2024-05-23 16:24 | INFO | - Correct:4190  Clean:4993  Conf:4993  Conf_Acc:3143  Vague:6555
+2024-05-23 16:27 | INFO | - A map@All: 0.7761, map@5000: 0.8057
+
+
+2024-05-23 16:28 | INFO | - B map@All: 0.7634, map@5000: 0.7923
+
+
+2024-05-23 16:28 | INFO | - [Epoch 7]:
+2024-05-23 16:29 | INFO | - TP:3017  FP:1745  TN:1494  FN:664  VN:3263
+2024-05-23 16:29 | INFO | - Correct:3927  Clean:4762  Conf:4762  Conf_Acc:3017  Vague:5842
+2024-05-23 16:31 | INFO | - [Epoch 8]:
+2024-05-23 16:32 | INFO | - TP:2848  FP:1720  TN:2393  FN:669  VN:3059
+2024-05-23 16:32 | INFO | - Correct:3728  Clean:4568  Conf:4568  Conf_Acc:2848  Vague:4938
+2024-05-23 16:35 | INFO | - A map@All: 0.7730, map@5000: 0.8074
+
+
+2024-05-23 16:35 | INFO | - B map@All: 0.7658, map@5000: 0.7993
+
+
+2024-05-23 16:35 | INFO | - [Epoch 9]:
+2024-05-23 16:36 | INFO | - TP:2976  FP:1914  TN:2246  FN:703  VN:3054
+2024-05-23 16:36 | INFO | - Correct:3757  Clean:4890  Conf:4890  Conf_Acc:2976  Vague:5051
+2024-05-23 16:38 | INFO | - [Epoch 10]:
+2024-05-23 16:39 | INFO | - TP:2734  FP:1618  TN:2311  FN:562  VN:2996
+2024-05-23 16:39 | INFO | - Correct:3558  Clean:4352  Conf:4352  Conf_Acc:2734  Vague:5127
+2024-05-23 16:42 | INFO | - A map@All: 0.7724, map@5000: 0.8094
+
+
+2024-05-23 16:43 | INFO | - B map@All: 0.7607, map@5000: 0.7976
+
+
+2024-05-23 16:43 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 16:43 | INFO | - [Epoch 6]:
+2024-05-23 16:44 | INFO | - TP:3143  FP:1850  TN:1237  FN:208  VN:3982
+2024-05-23 16:44 | INFO | - Correct:4190  Clean:4993  Conf:4993  Conf_Acc:3143  Vague:6555
+2024-05-23 16:47 | INFO | - A map@All: 0.3368, map@5000: 0.3364
+
+
+2024-05-23 16:48 | INFO | - B map@All: 0.4095, map@5000: 0.4209
+
+
+2024-05-23 16:48 | INFO | - [Epoch 7]:
+2024-05-23 16:48 | INFO | - TP:1645  FP:6353  TN:1348  FN:0  VN:1645
+2024-05-23 16:48 | INFO | - Correct:1645  Clean:7998  Conf:7998  Conf_Acc:1645  Vague:6652
+2024-05-23 16:50 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 16:50 | INFO | - [Epoch 6]:
+2024-05-23 16:51 | INFO | - TP:3143  FP:1850  TN:1237  FN:208  VN:3982
+2024-05-23 16:51 | INFO | - Correct:4190  Clean:4993  Conf:4993  Conf_Acc:3143  Vague:6555
+2024-05-23 16:54 | INFO | - A map@All: 0.7825, map@5000: 0.8134
+
+
+2024-05-23 16:55 | INFO | - B map@All: 0.7698, map@5000: 0.7993
+
+
+2024-05-23 16:55 | INFO | - [Epoch 7]:
+2024-05-23 16:56 | INFO | - TP:3007  FP:1760  TN:2151  FN:869  VN:3201
+2024-05-23 16:56 | INFO | - Correct:4070  Clean:4767  Conf:4767  Conf_Acc:3007  Vague:4980
+2024-05-23 16:58 | INFO | - [Epoch 8]:
+2024-05-23 16:59 | INFO | - TP:3011  FP:1857  TN:2101  FN:831  VN:3177
+2024-05-23 16:59 | INFO | - Correct:4008  Clean:4868  Conf:4868  Conf_Acc:3011  Vague:5068
+2024-05-23 17:02 | INFO | - A map@All: 0.7714, map@5000: 0.8056
+
+
+2024-05-23 17:02 | INFO | - B map@All: 0.7639, map@5000: 0.7982
+
+
+2024-05-23 17:02 | INFO | - [Epoch 9]:
+2024-05-23 17:03 | INFO | - TP:2728  FP:1643  TN:2045  FN:789  VN:3160
+2024-05-23 17:03 | INFO | - Correct:3949  Clean:4371  Conf:4371  Conf_Acc:2728  Vague:5166
+2024-05-23 17:06 | INFO | - [Epoch 10]:
+2024-05-23 17:06 | INFO | - TP:2583  FP:1546  TN:2013  FN:709  VN:3123
+2024-05-23 17:06 | INFO | - Correct:3832  Clean:4129  Conf:4129  Conf_Acc:2583  Vague:5278
+2024-05-23 17:09 | INFO | - A map@All: 0.7732, map@5000: 0.8098
+
+
+2024-05-23 17:10 | INFO | - B map@All: 0.7600, map@5000: 0.7976
+
+
+2024-05-23 17:11 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 17:11 | INFO | - [Epoch 6]:
+2024-05-23 17:12 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 17:12 | INFO | - [Epoch 1]:
+2024-05-23 17:16 | INFO | - [Epoch 2]:
+2024-05-23 17:22 | INFO | - A map@All: 0.7337, map@5000: 0.7637
+
+
+2024-05-23 17:22 | INFO | - B map@All: 0.7212, map@5000: 0.7518
+
+
+2024-05-23 17:22 | INFO | - [Epoch 3]:
+2024-05-23 17:27 | INFO | - [Epoch 4]:
+2024-05-23 17:32 | INFO | - A map@All: 0.7590, map@5000: 0.7949
+
+
+2024-05-23 17:33 | INFO | - B map@All: 0.7502, map@5000: 0.7846
+
+
+2024-05-23 17:33 | INFO | - [Epoch 5]:
+2024-05-23 17:37 | INFO | - [Epoch 6]:
+2024-05-23 17:38 | INFO | - TP:2885  FP:1666  TN:1252  FN:193  VN:4004
+2024-05-23 17:38 | INFO | - Correct:4197  Clean:4551  Conf:4551  Conf_Acc:2885  Vague:6555
+2024-05-23 17:41 | INFO | - A map@All: 0.7695, map@5000: 0.8084
+
+
+2024-05-23 17:41 | INFO | - B map@All: 0.7604, map@5000: 0.7955
+
+
+2024-05-23 17:41 | INFO | - [Epoch 7]:
+2024-05-23 17:42 | INFO | - TP:3066  FP:2814  TN:2464  FN:880  VN:3070
+2024-05-23 17:42 | INFO | - Correct:3950  Clean:5880  Conf:5880  Conf_Acc:3066  Vague:4656
+2024-05-23 17:44 | INFO | - [Epoch 8]:
+2024-05-23 17:45 | INFO | - TP:2456  FP:1290  TN:2515  FN:869  VN:3006
+2024-05-23 17:45 | INFO | - Correct:3875  Clean:3746  Conf:3746  Conf_Acc:2456  Vague:4616
+2024-05-23 17:48 | INFO | - A map@All: 0.7523, map@5000: 0.7923
+
+
+2024-05-23 17:49 | INFO | - B map@All: 0.7384, map@5000: 0.7788
+
+
+2024-05-23 17:49 | INFO | - [Epoch 9]:
+2024-05-23 17:49 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 17:49 | INFO | - [Epoch 1]:
+2024-05-23 17:51 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 17:51 | INFO | - [Epoch 1]:
+2024-05-23 17:56 | INFO | - [Epoch 2]:
+2024-05-23 18:01 | INFO | - A map@All: 0.7285, map@5000: 0.7615
+
+
+2024-05-23 18:01 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 18:01 | INFO | - [Epoch 1]:
+2024-05-23 18:06 | INFO | - [Epoch 2]:
+2024-05-23 18:11 | INFO | - A map@All: 0.7504, map@5000: 0.7766
+
+
+2024-05-23 18:11 | INFO | - B map@All: 0.7394, map@5000: 0.7676
+
+
+2024-05-23 18:11 | INFO | - [Epoch 3]:
+2024-05-23 18:16 | INFO | - [Epoch 4]:
+2024-05-23 18:21 | INFO | - A map@All: 0.7696, map@5000: 0.7980
+
+
+2024-05-23 18:21 | INFO | - B map@All: 0.7644, map@5000: 0.7935
+
+
+2024-05-23 18:21 | INFO | - [Epoch 5]:
+2024-05-23 18:26 | INFO | - [Epoch 6]:
+2024-05-23 18:27 | INFO | - TP:2849  FP:2115  TN:1294  FN:151  VN:3875
+2024-05-23 18:27 | INFO | - Correct:4026  Clean:4964  Conf:4964  Conf_Acc:2849  Vague:6555
+2024-05-23 18:30 | INFO | - A map@All: 0.7659, map@5000: 0.7978
+
+
+2024-05-23 18:30 | INFO | - B map@All: 0.7547, map@5000: 0.7906
+
+
+2024-05-23 18:30 | INFO | - [Epoch 7]:
+2024-05-23 18:31 | INFO | - TP:3080  FP:3045  TN:2540  FN:836  VN:3023
+2024-05-23 18:31 | INFO | - Correct:3859  Clean:6125  Conf:6125  Conf_Acc:3080  Vague:4624
+2024-05-23 18:31 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 18:32 | INFO | - [Epoch 1]:
+2024-05-23 18:37 | INFO | - TP:2001  FP:1810  TN:2640  FN:1045  VN:2834
+2024-05-23 18:37 | INFO | - Correct:3879  Clean:3811  Conf:3811  Conf_Acc:2001  Vague:4315
+2024-05-23 18:37 | INFO | - [Epoch 2]:
+2024-05-23 18:42 | INFO | - TP:2685  FP:2212  TN:2957  FN:849  VN:3034
+2024-05-23 18:42 | INFO | - Correct:3883  Clean:4897  Conf:4897  Conf_Acc:2685  Vague:4194
+2024-05-23 18:43 | INFO | - A map@All: 0.7476, map@5000: 0.7740
+
+
+2024-05-23 18:43 | INFO | - B map@All: 0.7399, map@5000: 0.7694
+
+
+2024-05-23 18:43 | INFO | - [Epoch 3]:
+2024-05-23 18:49 | INFO | - TP:2880  FP:2162  TN:2626  FN:849  VN:2985
+2024-05-23 18:49 | INFO | - Correct:3834  Clean:5042  Conf:5042  Conf_Acc:2880  Vague:4525
+2024-05-23 18:49 | INFO | - [Epoch 4]:
+2024-05-23 18:54 | INFO | - TP:2900  FP:2261  TN:2736  FN:845  VN:2951
+2024-05-23 18:54 | INFO | - Correct:3796  Clean:5161  Conf:5161  Conf_Acc:2900  Vague:4419
+2024-05-23 18:55 | INFO | - A map@All: 0.7727, map@5000: 0.8007
+
+
+2024-05-23 18:55 | INFO | - B map@All: 0.7678, map@5000: 0.7975
+
+
+2024-05-23 18:55 | INFO | - [Epoch 5]:
+2024-05-23 19:01 | INFO | - TP:2890  FP:1883  TN:2762  FN:841  VN:2941
+2024-05-23 19:01 | INFO | - Correct:3782  Clean:4773  Conf:4773  Conf_Acc:2890  Vague:4397
+2024-05-23 19:01 | INFO | - [Epoch 6]:
+2024-05-23 19:04 | INFO | - TP:3109  FP:3569  TN:2739  FN:797  VN:2862
+2024-05-23 19:04 | INFO | - Correct:3659  Clean:6678  Conf:6678  Conf_Acc:3109  Vague:4464
+2024-05-23 19:05 | INFO | - A map@All: 0.7504, map@5000: 0.7834
+
+
+2024-05-23 19:05 | INFO | - B map@All: 0.7571, map@5000: 0.7980
+
+
+2024-05-23 19:05 | INFO | - [Epoch 7]:
+2024-05-23 19:09 | INFO | - TP:3109  FP:3827  TN:2829  FN:760  VN:2797
+2024-05-23 19:09 | INFO | - Correct:3557  Clean:6936  Conf:6936  Conf_Acc:3109  Vague:4411
+2024-05-23 19:09 | INFO | - [Epoch 8]:
+2024-05-23 19:12 | INFO | - TP:3101  FP:3942  TN:2997  FN:749  VN:2749
+2024-05-23 19:12 | INFO | - Correct:3498  Clean:7043  Conf:7043  Conf_Acc:3101  Vague:4254
+2024-05-23 19:13 | INFO | - A map@All: 0.7259, map@5000: 0.7643
+
+
+2024-05-23 19:13 | INFO | - B map@All: 0.7324, map@5000: 0.7748
+
+
+2024-05-23 19:13 | INFO | - [Epoch 9]:
+2024-05-23 19:17 | INFO | - TP:3106  FP:4129  TN:3048  FN:740  VN:2707
+2024-05-23 19:17 | INFO | - Correct:3447  Clean:7235  Conf:7235  Conf_Acc:3106  Vague:4212
+2024-05-23 19:17 | INFO | - [Epoch 10]:
+2024-05-23 19:20 | INFO | - TP:3094  FP:4269  TN:3074  FN:726  VN:2642
+2024-05-23 19:20 | INFO | - Correct:3368  Clean:7363  Conf:7363  Conf_Acc:3094  Vague:4200
+2024-05-23 19:21 | INFO | - A map@All: 0.6998, map@5000: 0.7342
+
+
+2024-05-23 19:21 | INFO | - B map@All: 0.7144, map@5000: 0.7554
+
+
+2024-05-23 19:44 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 19:44 | INFO | - [Epoch 1]:
+2024-05-23 19:49 | INFO | - TP:2001  FP:1810  TN:2640  FN:1045  VN:2834
+2024-05-23 19:49 | INFO | - Correct:3879  Clean:3811  Conf:3811  Conf_Acc:2001  Vague:4315
+2024-05-23 19:49 | INFO | - [Epoch 2]:
+2024-05-23 19:52 | INFO | - TP:2236  FP:3072  TN:2800  FN:923  VN:2576
+2024-05-23 19:52 | INFO | - Correct:3499  Clean:5308  Conf:5308  Conf_Acc:2236  Vague:4277
+2024-05-23 19:53 | INFO | - A map@All: 0.7007, map@5000: 0.7328
+
+
+2024-05-23 19:54 | INFO | - B map@All: 0.7242, map@5000: 0.7595
+
+
+2024-05-23 19:54 | INFO | - [Epoch 3]:
+2024-05-23 19:59 | INFO | - TP:2535  FP:2489  TN:2940  FN:837  VN:2769
+2024-05-23 19:59 | INFO | - Correct:3606  Clean:5024  Conf:5024  Conf_Acc:2535  Vague:4223
+2024-05-23 19:59 | INFO | - [Epoch 4]:
+2024-05-23 20:02 | INFO | - TP:3098  FP:4034  TN:2905  FN:742  VN:2703
+2024-05-23 20:02 | INFO | - Correct:3445  Clean:7132  Conf:7132  Conf_Acc:3098  Vague:4353
+2024-05-23 20:03 | INFO | - A map@All: 0.6946, map@5000: 0.7287
+
+
+2024-05-23 20:04 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 20:04 | INFO | - [Epoch 1]:
+2024-05-23 20:08 | INFO | - [Epoch 2]:
+2024-05-23 20:11 | INFO | - A map@All: 0.7326, map@5000: 0.7632
+
+
+2024-05-23 20:12 | INFO | - B map@All: 0.7341, map@5000: 0.7646
+
+
+2024-05-23 20:12 | INFO | - [Epoch 3]:
+2024-05-23 20:16 | INFO | - [Epoch 4]:
+2024-05-23 20:19 | INFO | - A map@All: 0.7644, map@5000: 0.7932
+
+
+2024-05-23 20:20 | INFO | - B map@All: 0.7511, map@5000: 0.7766
+
+
+2024-05-23 20:20 | INFO | - [Epoch 5]:
+2024-05-23 20:24 | INFO | - [Epoch 6]:
+2024-05-23 20:27 | INFO | - A map@All: 0.7779, map@5000: 0.8077
+
+
+2024-05-23 20:28 | INFO | - B map@All: 0.7725, map@5000: 0.8017
+
+
+2024-05-23 20:28 | INFO | - [Epoch 7]:
+2024-05-23 20:32 | INFO | - [Epoch 8]:
+2024-05-23 20:36 | INFO | - A map@All: 0.7770, map@5000: 0.8065
+
+
+2024-05-23 20:36 | INFO | - B map@All: 0.7732, map@5000: 0.8019
+
+
+2024-05-23 20:36 | INFO | - [Epoch 9]:
+2024-05-23 20:41 | INFO | - [Epoch 10]:
+2024-05-23 20:44 | INFO | - A map@All: 0.7781, map@5000: 0.8071
+
+
+2024-05-23 20:44 | INFO | - B map@All: 0.7749, map@5000: 0.8032
+
+
+2024-05-23 20:45 | INFO | - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=10, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, log_id='', warm_up=5, tau=0.9, theta_s=0.5, temp=0.1, nr=0.4, noiseType='pairflip', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=100, theta_c=0.8, device=device(type='cuda'))
+2024-05-23 20:45 | INFO | - [Epoch 1]:
+2024-05-23 20:49 | INFO | - [Epoch 2]:
+2024-05-23 20:52 | INFO | - A map@All: 0.7677, map@5000: 0.7966
+
+
+2024-05-23 20:53 | INFO | - B map@All: 0.7502, map@5000: 0.7825
+
+
+2024-05-23 20:53 | INFO | - [Epoch 3]:
+2024-05-23 20:57 | INFO | - [Epoch 4]:
+2024-05-23 21:00 | INFO | - A map@All: 0.7813, map@5000: 0.8157
+
+
+2024-05-23 21:01 | INFO | - B map@All: 0.7689, map@5000: 0.8045
+
+
+2024-05-23 21:01 | INFO | - [Epoch 5]:
+2024-05-23 21:05 | INFO | - [Epoch 6]:
+2024-05-23 21:09 | INFO | - A map@All: 0.7786, map@5000: 0.8132
+
+
+2024-05-23 21:09 | INFO | - B map@All: 0.7789, map@5000: 0.8158
+
+
+2024-05-23 21:09 | INFO | - [Epoch 7]:
+2024-05-23 21:14 | INFO | - [Epoch 8]:
+2024-05-23 21:17 | INFO | - A map@All: 0.7810, map@5000: 0.8149
+
+
+2024-05-23 21:17 | INFO | - B map@All: 0.7821, map@5000: 0.8182
+
+
+2024-05-23 21:17 | INFO | - [Epoch 9]:
+2024-05-23 21:22 | INFO | - [Epoch 10]:
+2024-05-23 21:25 | INFO | - A map@All: 0.7817, map@5000: 0.8162
+
+
+2024-05-23 21:25 | INFO | - B map@All: 0.7831, map@5000: 0.8199
+
+

@@ -1,0 +1,280 @@
+2024-05-13 14:10:03.328 | INFO     | __main__:<module>:112 - Start Train
+2024-05-13 14:10:03.329 | INFO     | __main__:<module>:113 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:11:56.627 | INFO     | __main__:<module>:112 - Start Train
+2024-05-13 14:11:56.627 | INFO     | __main__:<module>:113 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:13:01.411 | INFO     | __main__:<module>:112 - Start Train
+2024-05-13 14:13:01.411 | INFO     | __main__:<module>:113 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:15:07.765 | INFO     | __main__:<module>:112 - Start Train
+2024-05-13 14:15:07.765 | INFO     | __main__:<module>:113 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:15:52.077 | INFO     | __main__:<module>:112 - Start Train
+2024-05-13 14:15:52.078 | INFO     | __main__:<module>:113 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:17:10.204 | INFO     | __main__:<module>:111 - Start Train
+2024-05-13 14:17:10.204 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:18:42.965 | INFO     | __main__:<module>:111 - Start Train
+2024-05-13 14:18:42.965 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:21:44.795 | INFO     | __main__:<module>:111 - Start Train
+2024-05-13 14:21:44.795 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:24:08.555 | INFO     | __main__:<module>:111 - Start Train
+2024-05-13 14:24:08.556 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:25:34.323 | INFO     | __main__:<module>:111 - Start Train
+2024-05-13 14:25:34.324 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:29:23.266 | INFO     | __main__:<module>:111 - Start Train
+2024-05-13 14:29:23.266 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:34:22.053 | INFO     | __main__:<module>:111 - Start Train
+2024-05-13 14:34:22.054 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:36:10.397 | INFO     | __main__:<module>:111 - Start Train
+2024-05-13 14:36:10.398 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:43:41.626 | INFO     | __main__:<module>:111 - Start Train
+2024-05-13 14:43:41.626 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:47:52.555 | INFO     | __main__:<module>:114 - Start Train
+2024-05-13 14:47:52.556 | INFO     | __main__:<module>:115 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:49:18.104 | INFO     | __main__:<module>:114 - Start Train
+2024-05-13 14:49:18.104 | INFO     | __main__:<module>:115 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:51:37.827 | INFO     | __main__:<module>:116 - Start Train
+2024-05-13 14:51:37.827 | INFO     | __main__:<module>:117 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:52:31.552 | INFO     | __main__:<module>:116 - Start Train
+2024-05-13 14:52:31.553 | INFO     | __main__:<module>:117 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:54:00.863 | INFO     | __main__:<module>:117 - Start Train
+2024-05-13 14:54:00.863 | INFO     | __main__:<module>:118 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:56:00.794 | INFO     | __main__:<module>:115 - Start Train
+2024-05-13 14:56:00.794 | INFO     | __main__:<module>:116 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:57:14.459 | INFO     | __main__:<module>:115 - Start Train
+2024-05-13 14:57:14.459 | INFO     | __main__:<module>:116 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:58:39.334 | INFO     | __main__:<module>:114 - Start Train
+2024-05-13 14:58:39.334 | INFO     | __main__:<module>:115 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 14:59:59.967 | INFO     | __main__:<module>:114 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 15:00:36.566 | INFO     | __main__:modify:99 - {'TP': tensor(156, device='cuda:0'), 'FP': tensor(5, device='cuda:0'), 'TN': tensor(5904, device='cuda:0'), 'FN': tensor(1935, device='cuda:0')}
+2024-05-13 15:00:36.567 | INFO     | __main__:modify:104 - {'correct': tensor(0, device='cuda:0'), 'original': tensor(0, device='cuda:0'), 'total': 0}
+2024-05-13 15:02:22.576 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 15:04:06.079 | INFO     | __main__:modify:97 - {'TP': tensor(156, device='cuda:0'), 'FP': tensor(5, device='cuda:0'), 'TN': tensor(5904, device='cuda:0'), 'FN': tensor(1935, device='cuda:0')}
+2024-05-13 15:04:06.081 | INFO     | __main__:modify:102 - {'correct': tensor(0, device='cuda:0'), 'original': tensor(0, device='cuda:0'), 'total': 0}
+2024-05-13 15:05:26.617 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 15:06:04.499 | INFO     | __main__:modify:97 - {'All': 161, 'TP': tensor(156, device='cuda:0'), 'FP': tensor(5, device='cuda:0'), 'TN': tensor(5904, device='cuda:0'), 'FN': tensor(1935, device='cuda:0')}
+2024-05-13 15:06:04.501 | INFO     | __main__:modify:102 - {'correct': tensor(0, device='cuda:0'), 'original': tensor(0, device='cuda:0'), 'total': 0}
+2024-05-13 15:07:17.233 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 15:07:54.858 | INFO     | __main__:modify:97 - {'All': 161, 'TP': tensor(156, device='cuda:0'), 'FP': tensor(5, device='cuda:0'), 'TN': tensor(5904, device='cuda:0'), 'FN': tensor(1935, device='cuda:0')}
+2024-05-13 15:07:54.859 | INFO     | __main__:modify:102 - {'correct': tensor(0, device='cuda:0'), 'original': tensor(0, device='cuda:0'), 'total': 0}
+2024-05-13 15:08:58.057 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 15:09:35.720 | INFO     | __main__:modify:97 - {'All': 161, 'TP': tensor(156, device='cuda:0'), 'FP': tensor(5, device='cuda:0'), 'TN': tensor(5904, device='cuda:0'), 'FN': tensor(1935, device='cuda:0')}
+2024-05-13 15:09:35.722 | INFO     | __main__:modify:102 - {'correct': tensor(0, device='cuda:0'), 'original': tensor(0, device='cuda:0'), 'total': 0}
+2024-05-13 15:10:50.272 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 15:11:27.812 | INFO     | __main__:modify:97 - {'All': 161, 'TP': tensor(156, device='cuda:0'), 'FP': tensor(5, device='cuda:0'), 'TN': tensor(5904, device='cuda:0'), 'FN': tensor(1935, device='cuda:0')}
+2024-05-13 15:11:27.814 | INFO     | __main__:modify:102 - {'correct': tensor(0, device='cuda:0'), 'original': tensor(0, device='cuda:0'), 'total': 0}
+2024-05-13 15:12:48.619 | INFO     | __main__:<module>:112 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 15:13:25.063 | INFO     | __main__:modify:97 - {'All': 161, 'TP': tensor(156, device='cuda:0'), 'FP': tensor(5, device='cuda:0'), 'TN': tensor(5904, device='cuda:0'), 'FN': tensor(1935, device='cuda:0')}
+2024-05-13 15:13:25.065 | INFO     | __main__:modify:102 - {'correct': tensor(0, device='cuda:0'), 'original': tensor(0, device='cuda:0'), 'total': 0}
+2024-05-13 15:19:27.406 | INFO     | __main__:modify:97 - {'All': 732, 'TP': tensor(691, device='cuda:0'), 'FP': tensor(41, device='cuda:0'), 'TN': tensor(5094, device='cuda:0'), 'FN': tensor(2174, device='cuda:0')}
+2024-05-13 15:19:27.408 | INFO     | __main__:modify:102 - {'correct': tensor(1801, device='cuda:0'), 'original': tensor(1027, device='cuda:0'), 'total': 2938}
+2024-05-13 15:23:29.448 | INFO     | __main__:modify:97 - {'All': 858, 'TP': tensor(812, device='cuda:0'), 'FP': tensor(46, device='cuda:0'), 'TN': tensor(5001, device='cuda:0'), 'FN': tensor(2141, device='cuda:0')}
+2024-05-13 15:23:29.451 | INFO     | __main__:modify:102 - {'correct': tensor(2162, device='cuda:0'), 'original': tensor(1300, device='cuda:0'), 'total': 3875}
+2024-05-13 15:27:24.758 | INFO     | __main__:modify:97 - {'All': 904, 'TP': tensor(857, device='cuda:0'), 'FP': tensor(47, device='cuda:0'), 'TN': tensor(4859, device='cuda:0'), 'FN': tensor(2237, device='cuda:0')}
+2024-05-13 15:27:24.760 | INFO     | __main__:modify:102 - {'correct': tensor(2340, device='cuda:0'), 'original': tensor(1337, device='cuda:0'), 'total': 4085}
+2024-05-13 15:33:39.023 | INFO     | __main__:modify:97 - {'All': 936, 'TP': tensor(880, device='cuda:0'), 'FP': tensor(56, device='cuda:0'), 'TN': tensor(4854, device='cuda:0'), 'FN': tensor(2210, device='cuda:0')}
+2024-05-13 15:33:39.025 | INFO     | __main__:modify:102 - {'correct': tensor(2487, device='cuda:0'), 'original': tensor(1488, device='cuda:0'), 'total': 4621}
+2024-05-13 15:37:42.496 | INFO     | __main__:train:58 - [Epoch 5]: map@All: 0.6434, map@5000: 0.6777
+2024-05-13 15:38:10.651 | INFO     | __main__:modify:97 - {'All': 941, 'TP': tensor(878, device='cuda:0'), 'FP': tensor(63, device='cuda:0'), 'TN': tensor(4837, device='cuda:0'), 'FN': tensor(2222, device='cuda:0')}
+2024-05-13 15:38:10.653 | INFO     | __main__:modify:102 - {'correct': tensor(2484, device='cuda:0'), 'original': tensor(1475, device='cuda:0'), 'total': 4488}
+2024-05-13 15:42:03.675 | INFO     | __main__:modify:97 - {'All': 951, 'TP': tensor(881, device='cuda:0'), 'FP': tensor(70, device='cuda:0'), 'TN': tensor(4763, device='cuda:0'), 'FN': tensor(2286, device='cuda:0')}
+2024-05-13 15:42:03.677 | INFO     | __main__:modify:102 - {'correct': tensor(2515, device='cuda:0'), 'original': tensor(1439, device='cuda:0'), 'total': 4399}
+2024-05-13 15:45:56.884 | INFO     | __main__:modify:97 - {'All': 953, 'TP': tensor(885, device='cuda:0'), 'FP': tensor(68, device='cuda:0'), 'TN': tensor(4803, device='cuda:0'), 'FN': tensor(2244, device='cuda:0')}
+2024-05-13 15:45:56.886 | INFO     | __main__:modify:102 - {'correct': tensor(2551, device='cuda:0'), 'original': tensor(1513, device='cuda:0'), 'total': 4530}
+2024-05-13 15:49:49.931 | INFO     | __main__:modify:97 - {'All': 958, 'TP': tensor(900, device='cuda:0'), 'FP': tensor(58, device='cuda:0'), 'TN': tensor(4817, device='cuda:0'), 'FN': tensor(2225, device='cuda:0')}
+2024-05-13 15:49:49.933 | INFO     | __main__:modify:102 - {'correct': tensor(2523, device='cuda:0'), 'original': tensor(1489, device='cuda:0'), 'total': 4560}
+2024-05-13 15:53:43.150 | INFO     | __main__:modify:97 - {'All': 968, 'TP': tensor(913, device='cuda:0'), 'FP': tensor(55, device='cuda:0'), 'TN': tensor(4811, device='cuda:0'), 'FN': tensor(2221, device='cuda:0')}
+2024-05-13 15:53:43.151 | INFO     | __main__:modify:102 - {'correct': tensor(2564, device='cuda:0'), 'original': tensor(1521, device='cuda:0'), 'total': 4734}
+2024-05-13 15:57:47.221 | INFO     | __main__:train:58 - [Epoch 10]: map@All: 0.6711, map@5000: 0.7077
+2024-05-13 15:58:15.234 | INFO     | __main__:modify:97 - {'All': 951, 'TP': tensor(891, device='cuda:0'), 'FP': tensor(60, device='cuda:0'), 'TN': tensor(4735, device='cuda:0'), 'FN': tensor(2314, device='cuda:0')}
+2024-05-13 15:58:15.236 | INFO     | __main__:modify:102 - {'correct': tensor(2560, device='cuda:0'), 'original': tensor(1446, device='cuda:0'), 'total': 4324}
+2024-05-13 16:02:08.892 | INFO     | __main__:modify:97 - {'All': 967, 'TP': tensor(917, device='cuda:0'), 'FP': tensor(50, device='cuda:0'), 'TN': tensor(4798, device='cuda:0'), 'FN': tensor(2235, device='cuda:0')}
+2024-05-13 16:02:08.894 | INFO     | __main__:modify:102 - {'correct': tensor(2572, device='cuda:0'), 'original': tensor(1511, device='cuda:0'), 'total': 4659}
+2024-05-13 16:06:03.147 | INFO     | __main__:modify:97 - {'All': 966, 'TP': tensor(908, device='cuda:0'), 'FP': tensor(58, device='cuda:0'), 'TN': tensor(4713, device='cuda:0'), 'FN': tensor(2321, device='cuda:0')}
+2024-05-13 16:06:03.149 | INFO     | __main__:modify:102 - {'correct': tensor(2569, device='cuda:0'), 'original': tensor(1431, device='cuda:0'), 'total': 4343}
+2024-05-13 16:09:55.154 | INFO     | __main__:modify:97 - {'All': 949, 'TP': tensor(899, device='cuda:0'), 'FP': tensor(50, device='cuda:0'), 'TN': tensor(4806, device='cuda:0'), 'FN': tensor(2245, device='cuda:0')}
+2024-05-13 16:09:55.156 | INFO     | __main__:modify:102 - {'correct': tensor(2599, device='cuda:0'), 'original': tensor(1546, device='cuda:0'), 'total': 4724}
+2024-05-13 16:13:47.796 | INFO     | __main__:modify:97 - {'All': 976, 'TP': tensor(909, device='cuda:0'), 'FP': tensor(67, device='cuda:0'), 'TN': tensor(4761, device='cuda:0'), 'FN': tensor(2263, device='cuda:0')}
+2024-05-13 16:13:47.799 | INFO     | __main__:modify:102 - {'correct': tensor(2605, device='cuda:0'), 'original': tensor(1524, device='cuda:0'), 'total': 4634}
+2024-05-13 16:17:52.883 | INFO     | __main__:train:58 - [Epoch 15]: map@All: 0.6797, map@5000: 0.7152
+2024-05-13 16:18:22.096 | INFO     | __main__:modify:97 - {'All': 957, 'TP': tensor(902, device='cuda:0'), 'FP': tensor(55, device='cuda:0'), 'TN': tensor(4704, device='cuda:0'), 'FN': tensor(2339, device='cuda:0')}
+2024-05-13 16:18:22.098 | INFO     | __main__:modify:102 - {'correct': tensor(2620, device='cuda:0'), 'original': tensor(1470, device='cuda:0'), 'total': 4393}
+2024-05-13 16:22:16.166 | INFO     | __main__:modify:97 - {'All': 959, 'TP': tensor(910, device='cuda:0'), 'FP': tensor(49, device='cuda:0'), 'TN': tensor(4746, device='cuda:0'), 'FN': tensor(2295, device='cuda:0')}
+2024-05-13 16:22:16.168 | INFO     | __main__:modify:102 - {'correct': tensor(2630, device='cuda:0'), 'original': tensor(1516, device='cuda:0'), 'total': 4499}
+2024-05-13 16:23:20.566 | INFO     | __main__:<module>:64 - Start Train
+2024-05-13 16:23:20.567 | INFO     | __main__:<module>:65 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 16:23:55.178 | INFO     | __main__:<module>:64 - Start Train
+2024-05-13 16:23:55.178 | INFO     | __main__:<module>:65 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 16:31:45.768 | INFO     | __main__:train:52 - [Epoch 5]: map@All: 0.5713, map@5000: 0.6127
+2024-05-13 16:39:28.261 | INFO     | __main__:train:52 - [Epoch 10]: map@All: 0.5304, map@5000: 0.5641
+2024-05-13 16:47:13.251 | INFO     | __main__:train:52 - [Epoch 15]: map@All: 0.5162, map@5000: 0.5437
+2024-05-13 16:47:24.904 | INFO     | __main__:<module>:64 - Start Train
+2024-05-13 16:47:24.905 | INFO     | __main__:<module>:65 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=5, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 16:58:18.877 | INFO     | __main__:train:52 - [Epoch 5]: map@All: 0.5769, map@5000: 0.6162
+2024-05-13 17:09:02.493 | INFO     | __main__:train:52 - [Epoch 10]: map@All: 0.5335, map@5000: 0.5682
+2024-05-13 17:19:46.090 | INFO     | __main__:train:52 - [Epoch 15]: map@All: 0.5135, map@5000: 0.5431
+2024-05-13 17:30:57.550 | INFO     | __main__:<module>:64 - Start Train
+2024-05-13 17:30:57.550 | INFO     | __main__:<module>:65 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 17:38:21.754 | INFO     | __main__:train:52 - [Epoch 2]: map@All: 0.6424, map@5000: 0.6767
+2024-05-13 17:59:46.335 | INFO     | __main__:<module>:64 - Start Train
+2024-05-13 17:59:46.335 | INFO     | __main__:<module>:65 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 18:05:40.641 | INFO     | __main__:train:52 - [Epoch 2]: map@All: 0.6546, map@5000: 0.6873
+2024-05-13 18:11:17.284 | INFO     | __main__:train:52 - [Epoch 4]: map@All: 0.6730, map@5000: 0.7085
+2024-05-13 18:16:53.084 | INFO     | __main__:train:52 - [Epoch 6]: map@All: 0.6744, map@5000: 0.7094
+2024-05-13 18:22:33.930 | INFO     | __main__:train:52 - [Epoch 8]: map@All: 0.6761, map@5000: 0.7124
+2024-05-13 18:28:04.129 | INFO     | __main__:train:52 - [Epoch 10]: map@All: 0.6675, map@5000: 0.7045
+2024-05-13 18:28:14.492 | INFO     | __main__:<module>:64 - Start Train
+2024-05-13 18:28:14.492 | INFO     | __main__:<module>:65 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 18:34:20.224 | INFO     | __main__:train:52 - [Epoch 2]: map@All: 0.3367, map@5000: 0.3364
+2024-05-13 18:34:39.789 | INFO     | __main__:<module>:64 - Start Train
+2024-05-13 18:34:39.790 | INFO     | __main__:<module>:65 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 18:40:41.486 | INFO     | __main__:train:52 - [Epoch 2]: map@All: 0.6429, map@5000: 0.6704
+2024-05-13 18:41:42.166 | INFO     | __main__:<module>:63 - Start Train
+2024-05-13 18:41:42.166 | INFO     | __main__:<module>:64 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 18:47:42.550 | INFO     | __main__:train:51 - [Epoch 2]: map@All: 0.6429, map@5000: 0.6704
+2024-05-13 18:48:24.247 | INFO     | __main__:<module>:63 - Start Train
+2024-05-13 18:48:24.247 | INFO     | __main__:<module>:64 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 18:54:00.437 | INFO     | __main__:train:51 - [Epoch 2]: map@All: 0.6904, map@5000: 0.7206
+2024-05-13 18:59:06.305 | INFO     | __main__:train:51 - [Epoch 4]: map@All: 0.7299, map@5000: 0.7637
+2024-05-13 18:59:48.770 | INFO     | __main__:<module>:65 - Start Train
+2024-05-13 18:59:48.770 | INFO     | __main__:<module>:66 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 19:05:24.466 | INFO     | __main__:train:53 - [Epoch 2]: map@All: 0.6429, map@5000: 0.6704
+2024-05-13 19:06:18.516 | INFO     | __main__:<module>:66 - Start Train
+2024-05-13 19:06:18.516 | INFO     | __main__:<module>:67 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 19:11:47.709 | INFO     | __main__:train:54 - [Epoch 2]: map@All: 0.6904, map@5000: 0.7206
+2024-05-13 19:13:08.630 | INFO     | __main__:<module>:66 - Start Train
+2024-05-13 19:13:08.630 | INFO     | __main__:<module>:67 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 19:18:42.716 | INFO     | __main__:train:54 - [Epoch 2]: map@All: 0.6904, map@5000: 0.7206
+2024-05-13 19:23:56.012 | INFO     | __main__:train:54 - [Epoch 4]: map@All: 0.7299, map@5000: 0.7637
+2024-05-13 19:29:19.010 | INFO     | __main__:train:54 - [Epoch 6]: map@All: 0.7296, map@5000: 0.7663
+2024-05-13 19:31:06.020 | INFO     | __main__:<module>:66 - Start Train
+2024-05-13 19:31:06.021 | INFO     | __main__:<module>:67 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 19:35:22.217 | INFO     | __main__:<module>:66 - Start Train
+2024-05-13 19:35:22.218 | INFO     | __main__:<module>:67 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 19:37:21.271 | INFO     | __main__:<module>:66 - Start Train
+2024-05-13 19:37:21.271 | INFO     | __main__:<module>:67 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 19:42:57.663 | INFO     | __main__:train:54 - [Epoch 2]: map@All: 0.6904, map@5000: 0.7206
+2024-05-13 19:45:24.135 | INFO     | __main__:<module>:66 - Start Train
+2024-05-13 19:45:24.136 | INFO     | __main__:<module>:67 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=True, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 19:50:46.878 | INFO     | __main__:train:54 - [Epoch 2]: map@All: 0.6904, map@5000: 0.7206
+2024-05-13 19:51:43.549 | INFO     | __main__:<module>:66 - Start Train
+2024-05-13 19:51:43.550 | INFO     | __main__:<module>:67 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=False, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 19:57:14.426 | INFO     | __main__:train:54 - [Epoch 2]: map@All: 0.7720, map@5000: 0.8045
+2024-05-13 20:09:14.174 | INFO     | __main__:<module>:66 - Start Train
+2024-05-13 20:09:14.174 | INFO     | __main__:<module>:67 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=False, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 20:14:52.388 | INFO     | __main__:train:54 - [Epoch 2]: map@All: 0.3367, map@5000: 0.3364
+2024-05-13 20:15:34.685 | INFO     | __main__:<module>:65 - Start Train
+2024-05-13 20:15:34.686 | INFO     | __main__:<module>:66 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=False, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 20:20:51.799 | INFO     | __main__:train:53 - [Epoch 2]: map@All: 0.7720, map@5000: 0.8045
+2024-05-13 20:49:18.860 | INFO     | __main__:<module>:59 - Start Train
+2024-05-13 20:49:18.860 | INFO     | __main__:<module>:60 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=False, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 20:58:45.608 | INFO     | __main__:train:47 - [Epoch 2]: map@All: 0.5268, map@5000: 0.5883
+2024-05-13 21:07:42.288 | INFO     | __main__:train:47 - [Epoch 4]: map@All: 0.5115, map@5000: 0.5772
+2024-05-13 21:16:41.293 | INFO     | __main__:train:47 - [Epoch 6]: map@All: 0.5006, map@5000: 0.5677
+2024-05-13 21:25:43.164 | INFO     | __main__:train:47 - [Epoch 8]: map@All: 0.4925, map@5000: 0.5607
+2024-05-13 21:34:49.615 | INFO     | __main__:train:47 - [Epoch 10]: map@All: 0.4936, map@5000: 0.5621
+2024-05-13 21:43:59.672 | INFO     | __main__:train:47 - [Epoch 12]: map@All: 0.4854, map@5000: 0.5527
+2024-05-13 21:56:46.538 | INFO     | __main__:<module>:59 - Start Train
+2024-05-13 21:56:46.538 | INFO     | __main__:<module>:60 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=False, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 22:03:39.270 | INFO     | __main__:train:47 - [Epoch 2]: map@All: 0.4336, map@5000: 0.4632
+2024-05-13 22:10:26.630 | INFO     | __main__:train:47 - [Epoch 4]: map@All: 0.5024, map@5000: 0.5356
+2024-05-13 22:17:05.463 | INFO     | __main__:train:47 - [Epoch 6]: map@All: 0.4417, map@5000: 0.4744
+2024-05-13 22:17:37.550 | INFO     | __main__:<module>:59 - Start Train
+2024-05-13 22:17:37.551 | INFO     | __main__:<module>:60 - Namespace(dataset='nuswide10k', root='/data2/knif/dataset/', bit=32, num_workers=12, Epoch=200, batch_size=64, arch='ViT', noise=False, lr=0.0001, gpu='0', seed=2021, eval_epoch=2, eval_init=0, log_id='train', warm_up=5, tau=0.9, theta_s=0.8, temp=0.1, nr=0.6, noiseType='symmetric', num_classes=10, num_query=2000, num_train=8000, multi_labels=True, mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225], img_size=224, K=200, device=device(type='cuda'))
+2024-05-13 22:24:30.005 | INFO     | __main__:train:47 - [Epoch 2]: map@All: 0.4748, map@5000: 0.5058
+2024-05-13 22:31:15.283 | INFO     | __main__:train:47 - [Epoch 4]: map@All: 0.4674, map@5000: 0.4992
+2024-05-13 22:37:50.515 | INFO     | __main__:train:47 - [Epoch 6]: map@All: 0.4448, map@5000: 0.4748
+2024-05-13 22:44:27.742 | INFO     | __main__:train:47 - [Epoch 8]: map@All: 0.4250, map@5000: 0.4528
+2024-05-13 22:50:56.042 | INFO     | __main__:train:47 - [Epoch 10]: map@All: 0.4088, map@5000: 0.4341
+2024-05-13 22:57:31.543 | INFO     | __main__:train:47 - [Epoch 12]: map@All: 0.4030, map@5000: 0.4271
+2024-05-13 23:04:16.724 | INFO     | __main__:train:47 - [Epoch 14]: map@All: 0.4018, map@5000: 0.4255
+2024-05-13 23:10:51.852 | INFO     | __main__:train:47 - [Epoch 16]: map@All: 0.4115, map@5000: 0.4369
+2024-05-13 23:17:37.520 | INFO     | __main__:train:47 - [Epoch 18]: map@All: 0.4105, map@5000: 0.4369
+2024-05-13 23:24:14.706 | INFO     | __main__:train:47 - [Epoch 20]: map@All: 0.4099, map@5000: 0.4348
+2024-05-13 23:30:45.609 | INFO     | __main__:train:47 - [Epoch 22]: map@All: 0.3888, map@5000: 0.4094
+2024-05-13 23:37:28.275 | INFO     | __main__:train:47 - [Epoch 24]: map@All: 0.4030, map@5000: 0.4275
+2024-05-13 23:44:04.147 | INFO     | __main__:train:47 - [Epoch 26]: map@All: 0.3957, map@5000: 0.4200
+2024-05-13 23:50:48.690 | INFO     | __main__:train:47 - [Epoch 28]: map@All: 0.4021, map@5000: 0.4278
+2024-05-13 23:57:26.435 | INFO     | __main__:train:47 - [Epoch 30]: map@All: 0.3989, map@5000: 0.4235
+2024-05-14 00:04:12.187 | INFO     | __main__:train:47 - [Epoch 32]: map@All: 0.3883, map@5000: 0.4104
+2024-05-14 00:10:42.561 | INFO     | __main__:train:47 - [Epoch 34]: map@All: 0.3904, map@5000: 0.4118
+2024-05-14 00:17:20.507 | INFO     | __main__:train:47 - [Epoch 36]: map@All: 0.3963, map@5000: 0.4187
+2024-05-14 00:24:04.815 | INFO     | __main__:train:47 - [Epoch 38]: map@All: 0.3964, map@5000: 0.4192
+2024-05-14 00:30:42.629 | INFO     | __main__:train:47 - [Epoch 40]: map@All: 0.3899, map@5000: 0.4113
+2024-05-14 00:37:20.799 | INFO     | __main__:train:47 - [Epoch 42]: map@All: 0.3893, map@5000: 0.4105
+2024-05-14 00:43:55.440 | INFO     | __main__:train:47 - [Epoch 44]: map@All: 0.3907, map@5000: 0.4122
+2024-05-14 00:50:33.331 | INFO     | __main__:train:47 - [Epoch 46]: map@All: 0.3934, map@5000: 0.4154
+2024-05-14 00:57:17.763 | INFO     | __main__:train:47 - [Epoch 48]: map@All: 0.3912, map@5000: 0.4129
+2024-05-14 01:03:53.660 | INFO     | __main__:train:47 - [Epoch 50]: map@All: 0.3956, map@5000: 0.4181
+2024-05-14 01:10:36.926 | INFO     | __main__:train:47 - [Epoch 52]: map@All: 0.3944, map@5000: 0.4162
+2024-05-14 01:17:06.202 | INFO     | __main__:train:47 - [Epoch 54]: map@All: 0.3926, map@5000: 0.4142
+2024-05-14 01:23:32.170 | INFO     | __main__:train:47 - [Epoch 56]: map@All: 0.3991, map@5000: 0.4216
+2024-05-14 01:30:17.964 | INFO     | __main__:train:47 - [Epoch 58]: map@All: 0.3929, map@5000: 0.4145
+2024-05-14 01:36:54.148 | INFO     | __main__:train:47 - [Epoch 60]: map@All: 0.3927, map@5000: 0.4144
+2024-05-14 01:43:38.830 | INFO     | __main__:train:47 - [Epoch 62]: map@All: 0.3902, map@5000: 0.4115
+2024-05-14 01:50:16.075 | INFO     | __main__:train:47 - [Epoch 64]: map@All: 0.3960, map@5000: 0.4185
+2024-05-14 01:56:58.197 | INFO     | __main__:train:47 - [Epoch 66]: map@All: 0.3941, map@5000: 0.4161
+2024-05-14 02:03:31.433 | INFO     | __main__:train:47 - [Epoch 68]: map@All: 0.3914, map@5000: 0.4133
+2024-05-14 02:10:08.057 | INFO     | __main__:train:47 - [Epoch 70]: map@All: 0.3879, map@5000: 0.4093
+2024-05-14 02:16:51.983 | INFO     | __main__:train:47 - [Epoch 72]: map@All: 0.3906, map@5000: 0.4115
+2024-05-14 02:23:29.208 | INFO     | __main__:train:47 - [Epoch 74]: map@All: 0.3934, map@5000: 0.4157
+2024-05-14 02:30:13.963 | INFO     | __main__:train:47 - [Epoch 76]: map@All: 0.3912, map@5000: 0.4125
+2024-05-14 02:36:46.784 | INFO     | __main__:train:47 - [Epoch 78]: map@All: 0.3915, map@5000: 0.4124
+2024-05-14 02:43:27.959 | INFO     | __main__:train:47 - [Epoch 80]: map@All: 0.3933, map@5000: 0.4145
+2024-05-14 02:50:12.788 | INFO     | __main__:train:47 - [Epoch 82]: map@All: 0.3918, map@5000: 0.4127
+2024-05-14 02:56:48.608 | INFO     | __main__:train:47 - [Epoch 84]: map@All: 0.3911, map@5000: 0.4121
+2024-05-14 03:03:28.974 | INFO     | __main__:train:47 - [Epoch 86]: map@All: 0.3909, map@5000: 0.4118
+2024-05-14 03:09:58.443 | INFO     | __main__:train:47 - [Epoch 88]: map@All: 0.3930, map@5000: 0.4144
+2024-05-14 03:16:33.737 | INFO     | __main__:train:47 - [Epoch 90]: map@All: 0.3926, map@5000: 0.4140
+2024-05-14 03:23:18.781 | INFO     | __main__:train:47 - [Epoch 92]: map@All: 0.3906, map@5000: 0.4119
+2024-05-14 03:29:54.999 | INFO     | __main__:train:47 - [Epoch 94]: map@All: 0.3936, map@5000: 0.4153
+2024-05-14 03:36:41.137 | INFO     | __main__:train:47 - [Epoch 96]: map@All: 0.3922, map@5000: 0.4137
+2024-05-14 03:43:17.156 | INFO     | __main__:train:47 - [Epoch 98]: map@All: 0.3911, map@5000: 0.4119
+2024-05-14 03:49:47.413 | INFO     | __main__:train:47 - [Epoch 100]: map@All: 0.3917, map@5000: 0.4131
+2024-05-14 03:56:31.664 | INFO     | __main__:train:47 - [Epoch 102]: map@All: 0.3907, map@5000: 0.4118
+2024-05-14 04:03:07.167 | INFO     | __main__:train:47 - [Epoch 104]: map@All: 0.3908, map@5000: 0.4119
+2024-05-14 04:09:51.874 | INFO     | __main__:train:47 - [Epoch 106]: map@All: 0.3904, map@5000: 0.4116
+2024-05-14 04:16:28.320 | INFO     | __main__:train:47 - [Epoch 108]: map@All: 0.3900, map@5000: 0.4110
+2024-05-14 04:23:14.085 | INFO     | __main__:train:47 - [Epoch 110]: map@All: 0.3900, map@5000: 0.4111
+2024-05-14 04:29:46.734 | INFO     | __main__:train:47 - [Epoch 112]: map@All: 0.3913, map@5000: 0.4123
+2024-05-14 04:36:24.480 | INFO     | __main__:train:47 - [Epoch 114]: map@All: 0.3893, map@5000: 0.4096
+2024-05-14 04:43:08.144 | INFO     | __main__:train:47 - [Epoch 116]: map@All: 0.3896, map@5000: 0.4103
+2024-05-14 04:49:47.636 | INFO     | __main__:train:47 - [Epoch 118]: map@All: 0.3894, map@5000: 0.4102
+2024-05-14 04:56:32.299 | INFO     | __main__:train:47 - [Epoch 120]: map@All: 0.3895, map@5000: 0.4102
+2024-05-14 05:00:53.919 | INFO     | __main__:train:47 - [Epoch 122]: map@All: 0.3895, map@5000: 0.4102
+2024-05-14 05:04:24.234 | INFO     | __main__:train:47 - [Epoch 124]: map@All: 0.3893, map@5000: 0.4101
+2024-05-14 05:07:54.355 | INFO     | __main__:train:47 - [Epoch 126]: map@All: 0.3895, map@5000: 0.4103
+2024-05-14 05:11:24.742 | INFO     | __main__:train:47 - [Epoch 128]: map@All: 0.3893, map@5000: 0.4103
+2024-05-14 05:14:56.204 | INFO     | __main__:train:47 - [Epoch 130]: map@All: 0.3888, map@5000: 0.4095
+2024-05-14 05:18:26.229 | INFO     | __main__:train:47 - [Epoch 132]: map@All: 0.3889, map@5000: 0.4095
+2024-05-14 05:21:56.790 | INFO     | __main__:train:47 - [Epoch 134]: map@All: 0.3893, map@5000: 0.4100
+2024-05-14 05:25:27.774 | INFO     | __main__:train:47 - [Epoch 136]: map@All: 0.3897, map@5000: 0.4104
+2024-05-14 05:28:58.320 | INFO     | __main__:train:47 - [Epoch 138]: map@All: 0.3899, map@5000: 0.4106
+2024-05-14 05:32:29.147 | INFO     | __main__:train:47 - [Epoch 140]: map@All: 0.3899, map@5000: 0.4107
+2024-05-14 05:35:59.906 | INFO     | __main__:train:47 - [Epoch 142]: map@All: 0.3900, map@5000: 0.4107
+2024-05-14 05:39:30.083 | INFO     | __main__:train:47 - [Epoch 144]: map@All: 0.3895, map@5000: 0.4102
+2024-05-14 05:43:00.536 | INFO     | __main__:train:47 - [Epoch 146]: map@All: 0.3898, map@5000: 0.4103
+2024-05-14 05:46:31.424 | INFO     | __main__:train:47 - [Epoch 148]: map@All: 0.3892, map@5000: 0.4096
+2024-05-14 05:50:02.170 | INFO     | __main__:train:47 - [Epoch 150]: map@All: 0.3891, map@5000: 0.4096
+2024-05-14 05:53:32.612 | INFO     | __main__:train:47 - [Epoch 152]: map@All: 0.3890, map@5000: 0.4095
+2024-05-14 05:57:03.189 | INFO     | __main__:train:47 - [Epoch 154]: map@All: 0.3896, map@5000: 0.4102
+2024-05-14 06:00:33.269 | INFO     | __main__:train:47 - [Epoch 156]: map@All: 0.3894, map@5000: 0.4100
+2024-05-14 06:04:04.398 | INFO     | __main__:train:47 - [Epoch 158]: map@All: 0.3890, map@5000: 0.4094
+2024-05-14 06:07:35.186 | INFO     | __main__:train:47 - [Epoch 160]: map@All: 0.3895, map@5000: 0.4101
+2024-05-14 06:11:05.591 | INFO     | __main__:train:47 - [Epoch 162]: map@All: 0.3898, map@5000: 0.4104
+2024-05-14 06:14:35.749 | INFO     | __main__:train:47 - [Epoch 164]: map@All: 0.3895, map@5000: 0.4101
+2024-05-14 06:18:06.086 | INFO     | __main__:train:47 - [Epoch 166]: map@All: 0.3895, map@5000: 0.4100
+2024-05-14 06:21:36.291 | INFO     | __main__:train:47 - [Epoch 168]: map@All: 0.3893, map@5000: 0.4099
+2024-05-14 06:25:07.455 | INFO     | __main__:train:47 - [Epoch 170]: map@All: 0.3894, map@5000: 0.4099
+2024-05-14 06:28:38.284 | INFO     | __main__:train:47 - [Epoch 172]: map@All: 0.3894, map@5000: 0.4099
+2024-05-14 06:32:09.008 | INFO     | __main__:train:47 - [Epoch 174]: map@All: 0.3897, map@5000: 0.4103
+2024-05-14 06:35:39.292 | INFO     | __main__:train:47 - [Epoch 176]: map@All: 0.3899, map@5000: 0.4105
+2024-05-14 06:39:09.552 | INFO     | __main__:train:47 - [Epoch 178]: map@All: 0.3902, map@5000: 0.4110
+2024-05-14 06:42:40.096 | INFO     | __main__:train:47 - [Epoch 180]: map@All: 0.3899, map@5000: 0.4105
+2024-05-14 06:46:10.526 | INFO     | __main__:train:47 - [Epoch 182]: map@All: 0.3897, map@5000: 0.4101
+2024-05-14 06:49:40.585 | INFO     | __main__:train:47 - [Epoch 184]: map@All: 0.3895, map@5000: 0.4099
+2024-05-14 06:53:11.162 | INFO     | __main__:train:47 - [Epoch 186]: map@All: 0.3892, map@5000: 0.4096
+2024-05-14 06:56:41.785 | INFO     | __main__:train:47 - [Epoch 188]: map@All: 0.3893, map@5000: 0.4098
+2024-05-14 07:00:12.540 | INFO     | __main__:train:47 - [Epoch 190]: map@All: 0.3891, map@5000: 0.4096
+2024-05-14 07:03:43.003 | INFO     | __main__:train:47 - [Epoch 192]: map@All: 0.3891, map@5000: 0.4095
+2024-05-14 07:07:13.343 | INFO     | __main__:train:47 - [Epoch 194]: map@All: 0.3891, map@5000: 0.4095
+2024-05-14 07:10:43.623 | INFO     | __main__:train:47 - [Epoch 196]: map@All: 0.3890, map@5000: 0.4094
+2024-05-14 07:14:14.198 | INFO     | __main__:train:47 - [Epoch 198]: map@All: 0.3892, map@5000: 0.4096
+2024-05-14 07:17:44.764 | INFO     | __main__:train:47 - [Epoch 200]: map@All: 0.3895, map@5000: 0.4099
